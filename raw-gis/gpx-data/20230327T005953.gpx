@@ -1,0 +1,4583 @@
+<?xml version="1.0" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1">
+	<trk>
+		<name>Hike</name>
+		<type>hiking</type>
+		<src>2023-03-27-06-44-53.fit</src>
+		<cmt>created by fit2gpx.py</cmt>
+		<trkseg>
+			<trkpt>
+				<time>2023-03-27T00:59:53</time>
+				<extensions>
+					<heartrate>91</heartrate>
+				</extensions>
+			</trkpt>
+			<trkpt>
+				<time>2023-03-27T00:59:54</time>
+				<extensions>
+					<heartrate>91</heartrate>
+				</extensions>
+			</trkpt>
+			<trkpt>
+				<time>2023-03-27T00:59:59</time>
+				<extensions>
+					<heartrate>94</heartrate>
+				</extensions>
+			</trkpt>
+			<trkpt>
+				<time>2023-03-27T01:00:01</time>
+				<extensions>
+					<heartrate>97</heartrate>
+				</extensions>
+			</trkpt>
+			<trkpt lat="27.8049542103" lon="86.7144645285">
+				<time>2023-03-27T01:00:09</time>
+				<extensions>
+					<heartrate>99</heartrate>
+					<speed>1.577</speed>
+					<distance>5.99</distance>
+				</extensions>
+				<ele>3527.8</ele>
+			</trkpt>
+			<trkpt lat="27.8049731534" lon="86.714486992">
+				<time>2023-03-27T01:00:12</time>
+				<extensions>
+					<heartrate>97</heartrate>
+					<speed>1.847</speed>
+					<distance>8.44</distance>
+				</extensions>
+				<ele>3527.8</ele>
+			</trkpt>
+			<trkpt lat="27.8049759194" lon="86.7144890036">
+				<time>2023-03-27T01:00:13</time>
+				<extensions>
+					<heartrate>94</heartrate>
+					<speed>1.847</speed>
+					<distance>8.95</distance>
+				</extensions>
+				<ele>3527.8</ele>
+			</trkpt>
+			<trkpt lat="27.80499327" lon="86.7144703958">
+				<time>2023-03-27T01:00:18</time>
+				<extensions>
+					<heartrate>92</heartrate>
+					<distance>11.25</distance>
+				</extensions>
+				<ele>3528.2</ele>
+			</trkpt>
+			<trkpt lat="27.8049956169" lon="86.7144667916">
+				<time>2023-03-27T01:00:19</time>
+				<extensions>
+					<heartrate>92</heartrate>
+					<speed>0.7</speed>
+					<distance>11.93</distance>
+				</extensions>
+				<ele>3528.2</ele>
+			</trkpt>
+			<trkpt lat="27.8049922641" lon="86.7144810408">
+				<time>2023-03-27T01:00:25</time>
+				<extensions>
+					<heartrate>91</heartrate>
+					<distance>14.03</distance>
+				</extensions>
+				<ele>3527.8</ele>
+			</trkpt>
+			<trkpt lat="27.8049858939" lon="86.7144474294">
+				<time>2023-03-27T01:00:33</time>
+				<extensions>
+					<heartrate>90</heartrate>
+					<distance>18.15</distance>
+				</extensions>
+				<ele>3528.0</ele>
+			</trkpt>
+			<trkpt lat="27.8049573954" lon="86.7144013289">
+				<time>2023-03-27T01:00:41</time>
+				<extensions>
+					<heartrate>92</heartrate>
+					<distance>23.82</distance>
+				</extensions>
+				<ele>3528.2</ele>
+			</trkpt>
+			<trkpt lat="27.8049871512" lon="86.7144419812">
+				<time>2023-03-27T01:00:47</time>
+				<extensions>
+					<heartrate>92</heartrate>
+					<distance>27.85</distance>
+				</extensions>
+				<ele>3528.2</ele>
+			</trkpt>
+			<trkpt lat="27.8049882408" lon="86.7144364491">
+				<time>2023-03-27T01:00:51</time>
+				<extensions>
+					<heartrate>89</heartrate>
+					<distance>28.35</distance>
+				</extensions>
+				<ele>3528.0</ele>
+			</trkpt>
+			<trkpt lat="27.8049780149" lon="86.7144228704">
+				<time>2023-03-27T01:00:52</time>
+				<extensions>
+					<heartrate>89</heartrate>
+					<distance>30.35</distance>
+				</extensions>
+				<ele>3528.0</ele>
+			</trkpt>
+			<trkpt lat="27.8049796075" lon="86.7143983115">
+				<time>2023-03-27T01:00:54</time>
+				<extensions>
+					<heartrate>89</heartrate>
+					<speed>1.353</speed>
+					<distance>32.88</distance>
+				</extensions>
+				<ele>3528.2</ele>
+			</trkpt>
+			<trkpt lat="27.8049781825" lon="86.7144062743">
+				<time>2023-03-27T01:00:57</time>
+				<extensions>
+					<heartrate>88</heartrate>
+					<distance>34.48</distance>
+				</extensions>
+				<ele>3528.2</ele>
+			</trkpt>
+			<trkpt lat="27.8049099538" lon="86.7143727466">
+				<time>2023-03-27T01:01:03</time>
+				<extensions>
+					<heartrate>88</heartrate>
+					<cadence>54</cadence>
+					<speed>1.166</speed>
+					<distance>42.91</distance>
+				</extensions>
+				<ele>3528.2</ele>
+			</trkpt>
+			<trkpt lat="27.8048988059" lon="86.7143180966">
+				<time>2023-03-27T01:01:08</time>
+				<extensions>
+					<heartrate>91</heartrate>
+					<cadence>53</cadence>
+					<speed>1.306</speed>
+					<distance>48.28</distance>
+				</extensions>
+				<ele>3528.0</ele>
+			</trkpt>
+			<trkpt lat="27.8048954532" lon="86.7143126484">
+				<time>2023-03-27T01:01:09</time>
+				<extensions>
+					<heartrate>92</heartrate>
+					<cadence>53</cadence>
+					<speed>1.269</speed>
+					<distance>49.03</distance>
+				</extensions>
+				<ele>3528.0</ele>
+			</trkpt>
+			<trkpt lat="27.8048813716" lon="86.7142970581">
+				<time>2023-03-27T01:01:11</time>
+				<extensions>
+					<heartrate>95</heartrate>
+					<cadence>53</cadence>
+					<speed>1.222</speed>
+					<distance>50.79</distance>
+				</extensions>
+				<ele>3528.2</ele>
+			</trkpt>
+			<trkpt lat="27.804844575" lon="86.7142730858">
+				<time>2023-03-27T01:01:15</time>
+				<extensions>
+					<heartrate>98</heartrate>
+					<cadence>53</cadence>
+					<speed>1.232</speed>
+					<distance>55.52</distance>
+				</extensions>
+				<ele>3528.2</ele>
+			</trkpt>
+			<trkpt lat="27.8048350196" lon="86.7142662127">
+				<time>2023-03-27T01:01:16</time>
+				<extensions>
+					<heartrate>98</heartrate>
+					<cadence>53</cadence>
+					<speed>1.222</speed>
+					<distance>56.66</distance>
+				</extensions>
+				<ele>3528.2</ele>
+			</trkpt>
+			<trkpt lat="27.8048418928" lon="86.7142638657">
+				<time>2023-03-27T01:01:17</time>
+				<extensions>
+					<heartrate>98</heartrate>
+					<cadence>53</cadence>
+					<speed>1.213</speed>
+					<distance>56.88</distance>
+				</extensions>
+				<ele>3528.2</ele>
+			</trkpt>
+			<trkpt lat="27.8048283141" lon="86.7142571602">
+				<time>2023-03-27T01:01:20</time>
+				<extensions>
+					<heartrate>99</heartrate>
+					<cadence>53</cadence>
+					<speed>1.073</speed>
+					<distance>58.23</distance>
+				</extensions>
+				<ele>3528.2</ele>
+			</trkpt>
+			<trkpt lat="27.8047988098" lon="86.7141988222">
+				<time>2023-03-27T01:01:26</time>
+				<extensions>
+					<heartrate>99</heartrate>
+					<cadence>51</cadence>
+					<speed>1.101</speed>
+					<distance>64.95</distance>
+				</extensions>
+				<ele>3528.4</ele>
+			</trkpt>
+			<trkpt lat="27.8047918528" lon="86.7141597625">
+				<time>2023-03-27T01:01:32</time>
+				<extensions>
+					<heartrate>99</heartrate>
+					<speed>1.036</speed>
+					<distance>68.95</distance>
+				</extensions>
+				<ele>3528.6</ele>
+			</trkpt>
+			<trkpt lat="27.8047967143" lon="86.7141540628">
+				<time>2023-03-27T01:01:34</time>
+				<extensions>
+					<heartrate>99</heartrate>
+					<speed>0.961</speed>
+					<distance>69.66</distance>
+				</extensions>
+				<ele>3528.6</ele>
+			</trkpt>
+			<trkpt lat="27.8047669586" lon="86.7141365446">
+				<time>2023-03-27T01:01:38</time>
+				<extensions>
+					<heartrate>97</heartrate>
+					<speed>0.914</speed>
+					<distance>72.8</distance>
+				</extensions>
+				<ele>3528.8</ele>
+			</trkpt>
+			<trkpt lat="27.8047543019" lon="86.7141315993">
+				<time>2023-03-27T01:01:42</time>
+				<extensions>
+					<heartrate>98</heartrate>
+					<cadence>50</cadence>
+					<speed>0.905</speed>
+					<distance>75.86</distance>
+				</extensions>
+				<ele>3529.4</ele>
+			</trkpt>
+			<trkpt lat="27.8047407232" lon="86.7141200323">
+				<time>2023-03-27T01:01:44</time>
+				<extensions>
+					<heartrate>99</heartrate>
+					<speed>0.849</speed>
+					<distance>76.48</distance>
+				</extensions>
+				<ele>3529.8</ele>
+			</trkpt>
+			<trkpt lat="27.80472924" lon="86.7141037714">
+				<time>2023-03-27T01:01:47</time>
+				<extensions>
+					<heartrate>102</heartrate>
+					<distance>78.14</distance>
+				</extensions>
+				<ele>3530.4</ele>
+			</trkpt>
+			<trkpt lat="27.8047287371" lon="86.7140994128">
+				<time>2023-03-27T01:01:49</time>
+				<extensions>
+					<heartrate>104</heartrate>
+					<distance>78.9</distance>
+				</extensions>
+				<ele>3530.6</ele>
+			</trkpt>
+			<trkpt lat="27.8047294077" lon="86.7141018435">
+				<time>2023-03-27T01:01:55</time>
+				<extensions>
+					<heartrate>110</heartrate>
+					<distance>78.99</distance>
+				</extensions>
+				<ele>3531.0</ele>
+			</trkpt>
+			<trkpt lat="27.8047304973" lon="86.7141027655">
+				<time>2023-03-27T01:01:57</time>
+				<extensions>
+					<heartrate>113</heartrate>
+					<distance>78.99</distance>
+				</extensions>
+				<ele>3531.0</ele>
+			</trkpt>
+			<trkpt lat="27.8047279827" lon="86.714102095">
+				<time>2023-03-27T01:01:59</time>
+				<extensions>
+					<heartrate>112</heartrate>
+					<distance>78.99</distance>
+				</extensions>
+				<ele>3531.0</ele>
+			</trkpt>
+			<trkpt lat="27.8047063574" lon="86.7140902765">
+				<time>2023-03-27T01:02:05</time>
+				<extensions>
+					<heartrate>109</heartrate>
+					<distance>82.19</distance>
+				</extensions>
+				<ele>3531.2</ele>
+			</trkpt>
+			<trkpt lat="27.8046888392" lon="86.7140774522">
+				<time>2023-03-27T01:02:07</time>
+				<extensions>
+					<heartrate>108</heartrate>
+					<distance>84.03</distance>
+				</extensions>
+				<ele>3531.4</ele>
+			</trkpt>
+			<trkpt lat="27.804662101" lon="86.7140669748">
+				<time>2023-03-27T01:02:11</time>
+				<extensions>
+					<heartrate>109</heartrate>
+					<cadence>50</cadence>
+					<speed>0.327</speed>
+					<distance>86.81</distance>
+				</extensions>
+				<ele>3532.4</ele>
+			</trkpt>
+			<trkpt lat="27.8046577424" lon="86.7140596826">
+				<time>2023-03-27T01:02:12</time>
+				<extensions>
+					<heartrate>110</heartrate>
+					<cadence>48</cadence>
+					<speed>0.429</speed>
+					<distance>87.91</distance>
+				</extensions>
+				<ele>3532.6</ele>
+			</trkpt>
+			<trkpt lat="27.8046337701" lon="86.7140419967">
+				<time>2023-03-27T01:02:16</time>
+				<extensions>
+					<heartrate>113</heartrate>
+					<cadence>49</cadence>
+					<speed>0.765</speed>
+					<distance>90.56</distance>
+				</extensions>
+				<ele>3533.2</ele>
+			</trkpt>
+			<trkpt lat="27.8045974765" lon="86.7140135821">
+				<time>2023-03-27T01:02:20</time>
+				<extensions>
+					<heartrate>114</heartrate>
+					<cadence>49</cadence>
+					<speed>1.036</speed>
+					<distance>95.01</distance>
+				</extensions>
+				<ele>3533.4</ele>
+			</trkpt>
+			<trkpt lat="27.8045957163" lon="86.713977959">
+				<time>2023-03-27T01:02:25</time>
+				<extensions>
+					<heartrate>116</heartrate>
+					<cadence>49</cadence>
+					<speed>0.868</speed>
+					<distance>98.58</distance>
+				</extensions>
+				<ele>3533.6</ele>
+			</trkpt>
+			<trkpt lat="27.8045762703" lon="86.7139495444">
+				<time>2023-03-27T01:02:29</time>
+				<extensions>
+					<heartrate>118</heartrate>
+					<cadence>49</cadence>
+					<speed>0.765</speed>
+					<distance>101.92</distance>
+				</extensions>
+				<ele>3533.6</ele>
+			</trkpt>
+			<trkpt lat="27.8045745939" lon="86.7139433417">
+				<time>2023-03-27T01:02:30</time>
+				<extensions>
+					<heartrate>119</heartrate>
+					<cadence>49</cadence>
+					<speed>0.765</speed>
+					<distance>102.22</distance>
+				</extensions>
+				<ele>3533.6</ele>
+			</trkpt>
+			<trkpt lat="27.8045585006" lon="86.7139197886">
+				<time>2023-03-27T01:02:34</time>
+				<extensions>
+					<heartrate>122</heartrate>
+					<cadence>19</cadence>
+					<speed>0.7</speed>
+					<distance>105.37</distance>
+				</extensions>
+				<ele>3534.0</ele>
+			</trkpt>
+			<trkpt lat="27.8045560699" lon="86.7139030248">
+				<time>2023-03-27T01:02:36</time>
+				<extensions>
+					<heartrate>124</heartrate>
+					<cadence>19</cadence>
+					<speed>0.728</speed>
+					<distance>106.9</distance>
+				</extensions>
+				<ele>3534.2</ele>
+			</trkpt>
+			<trkpt lat="27.8045461792" lon="86.7138448544">
+				<time>2023-03-27T01:02:42</time>
+				<extensions>
+					<heartrate>127</heartrate>
+					<cadence>44</cadence>
+					<speed>0.868</speed>
+					<distance>112.85</distance>
+				</extensions>
+				<ele>3534.2</ele>
+			</trkpt>
+			<trkpt lat="27.8045427427" lon="86.7138350476">
+				<time>2023-03-27T01:02:43</time>
+				<extensions>
+					<heartrate>127</heartrate>
+					<cadence>44</cadence>
+					<speed>0.868</speed>
+					<distance>113.82</distance>
+				</extensions>
+				<ele>3534.2</ele>
+			</trkpt>
+			<trkpt lat="27.8045267332" lon="86.7137710936">
+				<time>2023-03-27T01:02:50</time>
+				<extensions>
+					<heartrate>127</heartrate>
+					<cadence>49</cadence>
+					<speed>0.942</speed>
+					<distance>120.44</distance>
+				</extensions>
+				<ele>3534.6</ele>
+			</trkpt>
+			<trkpt lat="27.8044975642" lon="86.7137051281">
+				<time>2023-03-27T01:02:57</time>
+				<extensions>
+					<heartrate>125</heartrate>
+					<cadence>64</cadence>
+					<speed>0.98</speed>
+					<distance>127.43</distance>
+				</extensions>
+				<ele>3534.6</ele>
+			</trkpt>
+			<trkpt lat="27.8044880927" lon="86.7136866041">
+				<time>2023-03-27T01:02:59</time>
+				<extensions>
+					<heartrate>124</heartrate>
+					<cadence>60</cadence>
+					<speed>0.989</speed>
+					<distance>129.71</distance>
+				</extensions>
+				<ele>3534.6</ele>
+			</trkpt>
+			<trkpt lat="27.8044667188" lon="86.7136650626">
+				<time>2023-03-27T01:03:03</time>
+				<extensions>
+					<heartrate>122</heartrate>
+					<speed>0.97</speed>
+					<distance>132.69</distance>
+				</extensions>
+				<ele>3534.6</ele>
+			</trkpt>
+			<trkpt lat="27.8044609353" lon="86.7136681639">
+				<time>2023-03-27T01:03:04</time>
+				<extensions>
+					<heartrate>121</heartrate>
+					<speed>0.97</speed>
+					<distance>133.3</distance>
+				</extensions>
+				<ele>3534.6</ele>
+			</trkpt>
+			<trkpt lat="27.8044458479" lon="86.7136960756">
+				<time>2023-03-27T01:03:08</time>
+				<extensions>
+					<heartrate>118</heartrate>
+					<cadence>51</cadence>
+					<speed>0.933</speed>
+					<distance>136.13</distance>
+				</extensions>
+				<ele>3535.0</ele>
+			</trkpt>
+			<trkpt lat="27.8044449259" lon="86.713704709">
+				<time>2023-03-27T01:03:10</time>
+				<extensions>
+					<heartrate>118</heartrate>
+					<cadence>51</cadence>
+					<speed>0.914</speed>
+					<distance>136.97</distance>
+				</extensions>
+				<ele>3535.2</ele>
+			</trkpt>
+			<trkpt lat="27.8044546489" lon="86.7137063853">
+				<time>2023-03-27T01:03:11</time>
+				<extensions>
+					<heartrate>118</heartrate>
+					<cadence>40</cadence>
+					<speed>0.896</speed>
+					<distance>137.65</distance>
+				</extensions>
+				<ele>3535.4</ele>
+			</trkpt>
+			<trkpt lat="27.804454565" lon="86.7137138452">
+				<time>2023-03-27T01:03:13</time>
+				<extensions>
+					<heartrate>117</heartrate>
+					<cadence>40</cadence>
+					<speed>0.849</speed>
+					<distance>138.08</distance>
+				</extensions>
+				<ele>3535.6</ele>
+			</trkpt>
+			<trkpt lat="27.8044529725" lon="86.7137229815">
+				<time>2023-03-27T01:03:15</time>
+				<extensions>
+					<heartrate>117</heartrate>
+					<speed>0.793</speed>
+					<distance>138.87</distance>
+				</extensions>
+				<ele>3536.0</ele>
+			</trkpt>
+			<trkpt lat="27.8044471052" lon="86.7137295194">
+				<time>2023-03-27T01:03:20</time>
+				<extensions>
+					<heartrate>116</heartrate>
+					<distance>140.01</distance>
+				</extensions>
+				<ele>3536.6</ele>
+			</trkpt>
+			<trkpt lat="27.8044460993" lon="86.7137393262">
+				<time>2023-03-27T01:03:24</time>
+				<extensions>
+					<heartrate>115</heartrate>
+					<distance>140.29</distance>
+				</extensions>
+				<ele>3536.6</ele>
+			</trkpt>
+			<trkpt lat="27.8044464346" lon="86.7137522344">
+				<time>2023-03-27T01:03:26</time>
+				<extensions>
+					<heartrate>112</heartrate>
+					<distance>141.65</distance>
+				</extensions>
+				<ele>3536.6</ele>
+			</trkpt>
+			<trkpt lat="27.8044412378" lon="86.7137757037">
+				<time>2023-03-27T01:03:30</time>
+				<extensions>
+					<heartrate>110</heartrate>
+					<distance>143.87</distance>
+				</extensions>
+				<ele>3537.0</ele>
+			</trkpt>
+			<trkpt lat="27.8044447582" lon="86.7138213012">
+				<time>2023-03-27T01:03:35</time>
+				<extensions>
+					<heartrate>109</heartrate>
+					<cadence>45</cadence>
+					<speed>0.252</speed>
+					<distance>148.42</distance>
+				</extensions>
+				<ele>3537.6</ele>
+			</trkpt>
+			<trkpt lat="27.8044434171" lon="86.7138293479">
+				<time>2023-03-27T01:03:36</time>
+				<extensions>
+					<heartrate>109</heartrate>
+					<cadence>45</cadence>
+					<speed>0.439</speed>
+					<distance>149.32</distance>
+				</extensions>
+				<ele>3537.6</ele>
+			</trkpt>
+			<trkpt lat="27.8044382203" lon="86.7138623726">
+				<time>2023-03-27T01:03:41</time>
+				<extensions>
+					<heartrate>111</heartrate>
+					<speed>0.681</speed>
+					<distance>152.61</distance>
+				</extensions>
+				<ele>3538.4</ele>
+			</trkpt>
+			<trkpt lat="27.8044334427" lon="86.7138741072">
+				<time>2023-03-27T01:03:43</time>
+				<extensions>
+					<heartrate>114</heartrate>
+					<speed>0.737</speed>
+					<distance>153.6</distance>
+				</extensions>
+				<ele>3538.8</ele>
+			</trkpt>
+			<trkpt lat="27.8044223785" lon="86.7138972413">
+				<time>2023-03-27T01:03:48</time>
+				<extensions>
+					<heartrate>115</heartrate>
+					<speed>0.69</speed>
+					<distance>156.14</distance>
+				</extensions>
+				<ele>3539.6</ele>
+			</trkpt>
+			<trkpt lat="27.8044176009" lon="86.7139144242">
+				<time>2023-03-27T01:03:51</time>
+				<extensions>
+					<heartrate>116</heartrate>
+					<speed>0.69</speed>
+					<distance>157.85</distance>
+				</extensions>
+				<ele>3540.0</ele>
+			</trkpt>
+			<trkpt lat="27.8044093866" lon="86.7139494605">
+				<time>2023-03-27T01:03:56</time>
+				<extensions>
+					<heartrate>117</heartrate>
+					<cadence>40</cadence>
+					<distance>161.9</distance>
+				</extensions>
+				<ele>3540.6</ele>
+			</trkpt>
+			<trkpt lat="27.8044164274" lon="86.713966392">
+				<time>2023-03-27T01:04:01</time>
+				<extensions>
+					<heartrate>118</heartrate>
+					<cadence>41</cadence>
+					<speed>0.345</speed>
+					<distance>163.32</distance>
+				</extensions>
+				<ele>3541.0</ele>
+			</trkpt>
+			<trkpt lat="27.804419864" lon="86.7139761988">
+				<time>2023-03-27T01:04:02</time>
+				<extensions>
+					<heartrate>118</heartrate>
+					<cadence>41</cadence>
+					<speed>0.411</speed>
+					<distance>164.43</distance>
+				</extensions>
+				<ele>3541.0</ele>
+			</trkpt>
+			<trkpt lat="27.8044151701" lon="86.7140169349">
+				<time>2023-03-27T01:04:10</time>
+				<extensions>
+					<heartrate>116</heartrate>
+					<distance>168.86</distance>
+				</extensions>
+				<ele>3542.0</ele>
+			</trkpt>
+			<trkpt lat="27.8044122364" lon="86.7140248977">
+				<time>2023-03-27T01:04:11</time>
+				<extensions>
+					<heartrate>117</heartrate>
+					<cadence>78</cadence>
+					<distance>169.83</distance>
+				</extensions>
+				<ele>3542.0</ele>
+			</trkpt>
+			<trkpt lat="27.8044064529" lon="86.7140463553">
+				<time>2023-03-27T01:04:14</time>
+				<extensions>
+					<heartrate>120</heartrate>
+					<cadence>42</cadence>
+					<speed>0.252</speed>
+					<distance>171.79</distance>
+				</extensions>
+				<ele>3542.6</ele>
+			</trkpt>
+			<trkpt lat="27.8044023458" lon="86.7140673101">
+				<time>2023-03-27T01:04:16</time>
+				<extensions>
+					<heartrate>124</heartrate>
+					<cadence>43</cadence>
+					<speed>0.579</speed>
+					<distance>173.94</distance>
+				</extensions>
+				<ele>3542.8</ele>
+			</trkpt>
+			<trkpt lat="27.8044011723" lon="86.7140782066">
+				<time>2023-03-27T01:04:17</time>
+				<extensions>
+					<heartrate>127</heartrate>
+					<cadence>43</cadence>
+					<speed>0.868</speed>
+					<distance>174.76</distance>
+				</extensions>
+				<ele>3543.0</ele>
+			</trkpt>
+			<trkpt lat="27.8044001665" lon="86.7140886839">
+				<time>2023-03-27T01:04:18</time>
+				<extensions>
+					<heartrate>129</heartrate>
+					<cadence>44</cadence>
+					<speed>0.905</speed>
+					<distance>175.89</distance>
+				</extensions>
+				<ele>3543.0</ele>
+			</trkpt>
+			<trkpt lat="27.8043921199" lon="86.7141290009">
+				<time>2023-03-27T01:04:23</time>
+				<extensions>
+					<heartrate>132</heartrate>
+					<speed>0.905</speed>
+					<distance>180.22</distance>
+				</extensions>
+				<ele>3543.6</ele>
+			</trkpt>
+			<trkpt lat="27.8043901082" lon="86.7141337786">
+				<time>2023-03-27T01:04:24</time>
+				<extensions>
+					<heartrate>132</heartrate>
+					<speed>0.905</speed>
+					<distance>180.68</distance>
+				</extensions>
+				<ele>3543.8</ele>
+			</trkpt>
+			<trkpt lat="27.8043911979" lon="86.7141498718">
+				<time>2023-03-27T01:04:26</time>
+				<extensions>
+					<heartrate>133</heartrate>
+					<cadence>41</cadence>
+					<distance>182.38</distance>
+				</extensions>
+				<ele>3544.2</ele>
+			</trkpt>
+			<trkpt lat="27.8043844085" lon="86.7141797114">
+				<time>2023-03-27T01:04:31</time>
+				<extensions>
+					<heartrate>130</heartrate>
+					<cadence>79</cadence>
+					<speed>0.261</speed>
+					<distance>185.72</distance>
+				</extensions>
+				<ele>3544.8</ele>
+			</trkpt>
+			<trkpt lat="27.8043834865" lon="86.7141810525">
+				<time>2023-03-27T01:04:32</time>
+				<extensions>
+					<heartrate>124</heartrate>
+					<cadence>79</cadence>
+					<speed>0.308</speed>
+					<distance>185.72</distance>
+				</extensions>
+				<ele>3545.0</ele>
+			</trkpt>
+			<trkpt lat="27.8043803852" lon="86.7141881771">
+				<time>2023-03-27T01:04:33</time>
+				<extensions>
+					<heartrate>122</heartrate>
+					<cadence>79</cadence>
+					<speed>0.336</speed>
+					<distance>186.39</distance>
+				</extensions>
+				<ele>3545.0</ele>
+			</trkpt>
+			<trkpt lat="27.8043770324" lon="86.7141924519">
+				<time>2023-03-27T01:04:34</time>
+				<extensions>
+					<heartrate>122</heartrate>
+					<cadence>79</cadence>
+					<speed>0.373</speed>
+					<distance>186.99</distance>
+				</extensions>
+				<ele>3545.2</ele>
+			</trkpt>
+			<trkpt lat="27.8043724224" lon="86.71423411">
+				<time>2023-03-27T01:04:40</time>
+				<extensions>
+					<heartrate>124</heartrate>
+					<speed>0.933</speed>
+					<distance>191.44</distance>
+				</extensions>
+				<ele>3546.2</ele>
+			</trkpt>
+			<trkpt lat="27.804371668" lon="86.7142392229">
+				<time>2023-03-27T01:04:41</time>
+				<extensions>
+					<heartrate>124</heartrate>
+					<cadence>40</cadence>
+					<speed>0.924</speed>
+					<distance>191.89</distance>
+				</extensions>
+				<ele>3546.4</ele>
+			</trkpt>
+			<trkpt lat="27.8043746017" lon="86.7142811324">
+				<time>2023-03-27T01:04:48</time>
+				<extensions>
+					<heartrate>126</heartrate>
+					<cadence>43</cadence>
+					<speed>0.364</speed>
+					<distance>195.33</distance>
+				</extensions>
+				<ele>3547.4</ele>
+			</trkpt>
+			<trkpt lat="27.8043746017" lon="86.7142917775">
+				<time>2023-03-27T01:04:49</time>
+				<extensions>
+					<heartrate>127</heartrate>
+					<cadence>43</cadence>
+					<speed>0.411</speed>
+					<distance>196.48</distance>
+				</extensions>
+				<ele>3547.4</ele>
+			</trkpt>
+			<trkpt lat="27.8043637052" lon="86.7143615987">
+				<time>2023-03-27T01:04:56</time>
+				<extensions>
+					<heartrate>129</heartrate>
+					<cadence>41</cadence>
+					<speed>0.653</speed>
+					<distance>203.84</distance>
+				</extensions>
+				<ele>3548.4</ele>
+			</trkpt>
+			<trkpt lat="27.8043516353" lon="86.7144110519">
+				<time>2023-03-27T01:05:04</time>
+				<extensions>
+					<heartrate>129</heartrate>
+					<cadence>41</cadence>
+					<speed>0.765</speed>
+					<distance>208.84</distance>
+				</extensions>
+				<ele>3549.6</ele>
+			</trkpt>
+			<trkpt lat="27.8043253999" lon="86.7144515365">
+				<time>2023-03-27T01:05:11</time>
+				<extensions>
+					<heartrate>128</heartrate>
+					<cadence>76</cadence>
+					<speed>0.989</speed>
+					<distance>213.88</distance>
+				</extensions>
+				<ele>3550.6</ele>
+			</trkpt>
+			<trkpt lat="27.8043088038" lon="86.7145112157">
+				<time>2023-03-27T01:05:20</time>
+				<extensions>
+					<heartrate>128</heartrate>
+					<cadence>41</cadence>
+					<speed>0.914</speed>
+					<distance>219.89</distance>
+				</extensions>
+				<ele>3551.6</ele>
+			</trkpt>
+			<trkpt lat="27.804304529" lon="86.7145195138">
+				<time>2023-03-27T01:05:21</time>
+				<extensions>
+					<heartrate>128</heartrate>
+					<cadence>41</cadence>
+					<speed>0.914</speed>
+					<distance>220.91</distance>
+				</extensions>
+				<ele>3551.6</ele>
+			</trkpt>
+			<trkpt lat="27.8042791318" lon="86.7145563941">
+				<time>2023-03-27T01:05:28</time>
+				<extensions>
+					<heartrate>129</heartrate>
+					<cadence>73</cadence>
+					<speed>0.924</speed>
+					<distance>225.66</distance>
+				</extensions>
+				<ele>3552.4</ele>
+			</trkpt>
+			<trkpt lat="27.8042756952" lon="86.714562932">
+				<time>2023-03-27T01:05:30</time>
+				<extensions>
+					<heartrate>129</heartrate>
+					<cadence>40</cadence>
+					<speed>0.924</speed>
+					<distance>226.55</distance>
+				</extensions>
+				<ele>3552.6</ele>
+			</trkpt>
+			<trkpt lat="27.8042683192" lon="86.7146001477">
+				<time>2023-03-27T01:05:34</time>
+				<extensions>
+					<heartrate>129</heartrate>
+					<speed>0.877</speed>
+					<distance>229.74</distance>
+				</extensions>
+				<ele>3553.0</ele>
+			</trkpt>
+			<trkpt lat="27.8042561654" lon="86.7146498524">
+				<time>2023-03-27T01:05:40</time>
+				<extensions>
+					<heartrate>130</heartrate>
+					<cadence>44</cadence>
+					<speed>0.905</speed>
+					<distance>234.9</distance>
+				</extensions>
+				<ele>3553.4</ele>
+			</trkpt>
+			<trkpt lat="27.8042321093" lon="86.7147110403">
+				<time>2023-03-27T01:05:47</time>
+				<extensions>
+					<heartrate>129</heartrate>
+					<cadence>46</cadence>
+					<speed>0.942</speed>
+					<distance>241.61</distance>
+				</extensions>
+				<ele>3553.4</ele>
+			</trkpt>
+			<trkpt lat="27.8041911218" lon="86.714767199">
+				<time>2023-03-27T01:05:55</time>
+				<extensions>
+					<heartrate>126</heartrate>
+					<speed>0.952</speed>
+					<distance>248.66</distance>
+				</extensions>
+				<ele>3553.6</ele>
+			</trkpt>
+			<trkpt lat="27.8041343763" lon="86.71481397">
+				<time>2023-03-27T01:06:03</time>
+				<extensions>
+					<heartrate>125</heartrate>
+					<cadence>44</cadence>
+					<speed>0.97</speed>
+					<distance>256.5</distance>
+				</extensions>
+				<ele>3554.4</ele>
+			</trkpt>
+			<trkpt lat="27.8040876053" lon="86.7148749065">
+				<time>2023-03-27T01:06:11</time>
+				<extensions>
+					<heartrate>124</heartrate>
+					<cadence>47</cadence>
+					<speed>1.008</speed>
+					<distance>264.6</distance>
+				</extensions>
+				<ele>3554.6</ele>
+			</trkpt>
+			<trkpt lat="27.8040156886" lon="86.7149065901">
+				<time>2023-03-27T01:06:22</time>
+				<extensions>
+					<heartrate>121</heartrate>
+					<speed>0.961</speed>
+					<distance>273.57</distance>
+				</extensions>
+				<ele>3555.0</ele>
+			</trkpt>
+			<trkpt lat="27.8039907943" lon="86.7149032373">
+				<time>2023-03-27T01:06:27</time>
+				<extensions>
+					<heartrate>118</heartrate>
+					<speed>0.924</speed>
+					<distance>276.49</distance>
+				</extensions>
+				<ele>3555.4</ele>
+			</trkpt>
+			<trkpt lat="27.8039865196" lon="86.71490198">
+				<time>2023-03-27T01:06:29</time>
+				<extensions>
+					<heartrate>117</heartrate>
+					<speed>0.905</speed>
+					<distance>277.22</distance>
+				</extensions>
+				<ele>3555.6</ele>
+			</trkpt>
+			<trkpt lat="27.8039860167" lon="86.714900136">
+				<time>2023-03-27T01:06:31</time>
+				<extensions>
+					<heartrate>116</heartrate>
+					<speed>0.868</speed>
+					<distance>277.31</distance>
+				</extensions>
+				<ele>3555.8</ele>
+			</trkpt>
+			<trkpt lat="27.8039982542" lon="86.7148999684">
+				<time>2023-03-27T01:06:36</time>
+				<extensions>
+					<heartrate>115</heartrate>
+					<distance>279.68</distance>
+				</extensions>
+				<ele>3556.0</ele>
+			</trkpt>
+			<trkpt lat="27.8039790597" lon="86.7148966156">
+				<time>2023-03-27T01:06:42</time>
+				<extensions>
+					<heartrate>112</heartrate>
+					<distance>281.34</distance>
+				</extensions>
+				<ele>3555.8</ele>
+			</trkpt>
+			<trkpt lat="27.8039790597" lon="86.7148966156">
+				<time>2023-03-27T01:06:43</time>
+				<extensions>
+					<heartrate>112</heartrate>
+					<distance>281.34</distance>
+				</extensions>
+				<ele>3556.0</ele>
+			</trkpt>
+			<trkpt lat="27.8039790597" lon="86.7148966156">
+				<time>2023-03-27T01:06:53</time>
+				<extensions>
+					<heartrate>113</heartrate>
+					<distance>283.11</distance>
+				</extensions>
+				<ele>3556.2</ele>
+			</trkpt>
+			<trkpt lat="27.8039790597" lon="86.7148966156">
+				<time>2023-03-27T01:06:59</time>
+				<extensions>
+					<heartrate>112</heartrate>
+					<distance>283.11</distance>
+				</extensions>
+				<ele>3556.8</ele>
+			</trkpt>
+			<trkpt lat="27.8039790597" lon="86.7148966156">
+				<time>2023-03-27T01:07:03</time>
+				<extensions>
+					<heartrate>109</heartrate>
+					<distance>283.11</distance>
+				</extensions>
+				<ele>3556.8</ele>
+			</trkpt>
+			<trkpt lat="27.8039790597" lon="86.7148966156">
+				<time>2023-03-27T01:07:04</time>
+				<extensions>
+					<heartrate>102</heartrate>
+					<distance>283.11</distance>
+				</extensions>
+				<ele>3556.8</ele>
+			</trkpt>
+			<trkpt lat="27.8039790597" lon="86.7148966156">
+				<time>2023-03-27T01:07:08</time>
+				<extensions>
+					<heartrate>99</heartrate>
+					<distance>283.11</distance>
+				</extensions>
+				<ele>3556.8</ele>
+			</trkpt>
+			<trkpt lat="27.8039790597" lon="86.7148966156">
+				<time>2023-03-27T01:07:09</time>
+				<extensions>
+					<heartrate>95</heartrate>
+					<distance>283.11</distance>
+				</extensions>
+				<ele>3556.8</ele>
+			</trkpt>
+			<trkpt lat="27.8039790597" lon="86.7148966156">
+				<time>2023-03-27T01:07:10</time>
+				<extensions>
+					<heartrate>89</heartrate>
+					<distance>283.11</distance>
+				</extensions>
+				<ele>3556.8</ele>
+			</trkpt>
+			<trkpt lat="27.8039765451" lon="86.7148986273">
+				<time>2023-03-27T01:07:13</time>
+				<extensions>
+					<heartrate>86</heartrate>
+					<distance>283.11</distance>
+				</extensions>
+				<ele>3556.8</ele>
+			</trkpt>
+			<trkpt lat="27.8039706778" lon="86.7148899101">
+				<time>2023-03-27T01:07:18</time>
+				<extensions>
+					<heartrate>83</heartrate>
+					<distance>283.42</distance>
+				</extensions>
+				<ele>3556.6</ele>
+			</trkpt>
+			<trkpt lat="27.8039704263" lon="86.7148908321">
+				<time>2023-03-27T01:07:22</time>
+				<extensions>
+					<heartrate>82</heartrate>
+					<distance>284.05</distance>
+				</extensions>
+				<ele>3556.0</ele>
+			</trkpt>
+			<trkpt lat="27.8039643914" lon="86.7148930114">
+				<time>2023-03-27T01:07:30</time>
+				<extensions>
+					<heartrate>81</heartrate>
+					<distance>285.46</distance>
+				</extensions>
+				<ele>3555.8</ele>
+			</trkpt>
+			<trkpt lat="27.8039063886" lon="86.7149004713">
+				<time>2023-03-27T01:07:36</time>
+				<extensions>
+					<heartrate>80</heartrate>
+					<cadence>50</cadence>
+					<speed>0.774</speed>
+					<distance>291.9</distance>
+				</extensions>
+				<ele>3556.0</ele>
+			</trkpt>
+			<trkpt lat="27.803858947" lon="86.7149067577">
+				<time>2023-03-27T01:07:43</time>
+				<extensions>
+					<heartrate>79</heartrate>
+					<speed>0.746</speed>
+					<distance>296.96</distance>
+				</extensions>
+				<ele>3556.0</ele>
+			</trkpt>
+			<trkpt lat="27.8038223181" lon="86.7149170674">
+				<time>2023-03-27T01:07:49</time>
+				<extensions>
+					<heartrate>78</heartrate>
+					<speed>0.774</speed>
+					<distance>301.38</distance>
+				</extensions>
+				<ele>3556.2</ele>
+			</trkpt>
+			<trkpt lat="27.8037529159" lon="86.7149088532">
+				<time>2023-03-27T01:07:56</time>
+				<extensions>
+					<heartrate>78</heartrate>
+					<cadence>49</cadence>
+					<speed>0.905</speed>
+					<distance>308.91</distance>
+				</extensions>
+				<ele>3557.0</ele>
+			</trkpt>
+			<trkpt lat="27.8037166223" lon="86.7149114516">
+				<time>2023-03-27T01:08:02</time>
+				<extensions>
+					<heartrate>78</heartrate>
+					<speed>0.849</speed>
+					<distance>312.93</distance>
+				</extensions>
+				<ele>3558.0</ele>
+			</trkpt>
+			<trkpt lat="27.8036633972" lon="86.71491866">
+				<time>2023-03-27T01:08:10</time>
+				<extensions>
+					<heartrate>81</heartrate>
+					<cadence>50</cadence>
+					<distance>318.83</distance>
+				</extensions>
+				<ele>3558.2</ele>
+			</trkpt>
+			<trkpt lat="27.8036504891" lon="86.7149182409">
+				<time>2023-03-27T01:08:11</time>
+				<extensions>
+					<heartrate>81</heartrate>
+					<cadence>51</cadence>
+					<speed>0.569</speed>
+					<distance>320.0</distance>
+				</extensions>
+				<ele>3558.0</ele>
+			</trkpt>
+			<trkpt lat="27.8035880439" lon="86.7149255332">
+				<time>2023-03-27T01:08:18</time>
+				<extensions>
+					<heartrate>80</heartrate>
+					<cadence>52</cadence>
+					<speed>1.026</speed>
+					<distance>326.97</distance>
+				</extensions>
+				<ele>3558.6</ele>
+			</trkpt>
+			<trkpt lat="27.8035539296" lon="86.7149329931">
+				<time>2023-03-27T01:08:21</time>
+				<extensions>
+					<heartrate>81</heartrate>
+					<cadence>47</cadence>
+					<speed>1.045</speed>
+					<distance>330.73</distance>
+				</extensions>
+				<ele>3559.0</ele>
+			</trkpt>
+			<trkpt lat="27.8035190608" lon="86.714941375">
+				<time>2023-03-27T01:08:25</time>
+				<extensions>
+					<heartrate>82</heartrate>
+					<cadence>45</cadence>
+					<speed>1.082</speed>
+					<distance>334.92</distance>
+				</extensions>
+				<ele>3559.6</ele>
+			</trkpt>
+			<trkpt lat="27.803503722" lon="86.7149417941">
+				<time>2023-03-27T01:08:27</time>
+				<extensions>
+					<heartrate>85</heartrate>
+					<cadence>46</cadence>
+					<speed>1.073</speed>
+					<distance>337.0</distance>
+				</extensions>
+				<ele>3559.8</ele>
+			</trkpt>
+			<trkpt lat="27.8034939989" lon="86.7149415426">
+				<time>2023-03-27T01:08:28</time>
+				<extensions>
+					<heartrate>86</heartrate>
+					<cadence>46</cadence>
+					<speed>1.073</speed>
+					<distance>337.82</distance>
+				</extensions>
+				<ele>3560.0</ele>
+			</trkpt>
+			<trkpt lat="27.8034704458" lon="86.7149424646">
+				<time>2023-03-27T01:08:31</time>
+				<extensions>
+					<heartrate>88</heartrate>
+					<speed>1.017</speed>
+					<distance>340.38</distance>
+				</extensions>
+				<ele>3560.4</ele>
+			</trkpt>
+			<trkpt lat="27.8034487367" lon="86.7149464041">
+				<time>2023-03-27T01:08:35</time>
+				<extensions>
+					<heartrate>91</heartrate>
+					<distance>342.89</distance>
+				</extensions>
+				<ele>3561.2</ele>
+			</trkpt>
+			<trkpt lat="27.8034359962" lon="86.7149439733">
+				<time>2023-03-27T01:08:37</time>
+				<extensions>
+					<heartrate>91</heartrate>
+					<cadence>45</cadence>
+					<distance>344.14</distance>
+				</extensions>
+				<ele>3561.8</ele>
+			</trkpt>
+			<trkpt lat="27.8033976909" lon="86.7149368487">
+				<time>2023-03-27T01:08:41</time>
+				<extensions>
+					<heartrate>91</heartrate>
+					<cadence>46</cadence>
+					<speed>0.541</speed>
+					<distance>348.44</distance>
+				</extensions>
+				<ele>3562.2</ele>
+			</trkpt>
+			<trkpt lat="27.8033664264" lon="86.7149281316">
+				<time>2023-03-27T01:08:45</time>
+				<extensions>
+					<heartrate>93</heartrate>
+					<cadence>44</cadence>
+					<speed>0.877</speed>
+					<distance>352.02</distance>
+				</extensions>
+				<ele>3562.8</ele>
+			</trkpt>
+			<trkpt lat="27.8033428732" lon="86.7149241082">
+				<time>2023-03-27T01:08:48</time>
+				<extensions>
+					<heartrate>95</heartrate>
+					<cadence>47</cadence>
+					<speed>0.952</speed>
+					<distance>354.81</distance>
+				</extensions>
+				<ele>3563.4</ele>
+			</trkpt>
+			<trkpt lat="27.8033044003" lon="86.7149193306">
+				<time>2023-03-27T01:08:52</time>
+				<extensions>
+					<heartrate>98</heartrate>
+					<cadence>47</cadence>
+					<speed>0.961</speed>
+					<distance>358.76</distance>
+				</extensions>
+				<ele>3564.0</ele>
+			</trkpt>
+			<trkpt lat="27.8032784164" lon="86.7149145529">
+				<time>2023-03-27T01:08:54</time>
+				<extensions>
+					<heartrate>100</heartrate>
+					<cadence>45</cadence>
+					<speed>1.138</speed>
+					<distance>361.9</distance>
+				</extensions>
+				<ele>3564.4</ele>
+			</trkpt>
+			<trkpt lat="27.8032331541" lon="86.7149191629">
+				<time>2023-03-27T01:08:59</time>
+				<extensions>
+					<heartrate>102</heartrate>
+					<cadence>51</cadence>
+					<speed>1.12</speed>
+					<distance>366.96</distance>
+				</extensions>
+				<ele>3564.8</ele>
+			</trkpt>
+			<trkpt lat="27.8031976148" lon="86.714939028">
+				<time>2023-03-27T01:09:04</time>
+				<extensions>
+					<heartrate>104</heartrate>
+					<speed>1.008</speed>
+					<distance>371.32</distance>
+				</extensions>
+				<ele>3565.6</ele>
+			</trkpt>
+			<trkpt lat="27.803185042" lon="86.7149513494">
+				<time>2023-03-27T01:09:06</time>
+				<extensions>
+					<heartrate>105</heartrate>
+					<speed>0.97</speed>
+					<distance>373.26</distance>
+				</extensions>
+				<ele>3565.8</ele>
+			</trkpt>
+			<trkpt lat="27.8031513467" lon="86.714989068">
+				<time>2023-03-27T01:09:12</time>
+				<extensions>
+					<heartrate>108</heartrate>
+					<cadence>46</cadence>
+					<speed>0.849</speed>
+					<distance>378.2</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8031265363" lon="86.7150096875">
+				<time>2023-03-27T01:09:15</time>
+				<extensions>
+					<heartrate>109</heartrate>
+					<speed>1.092</speed>
+					<distance>381.79</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8031142149" lon="86.715039527">
+				<time>2023-03-27T01:09:23</time>
+				<extensions>
+					<heartrate>108</heartrate>
+					<distance>385.21</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8030821122" lon="86.7150301393">
+				<time>2023-03-27T01:09:29</time>
+				<extensions>
+					<heartrate>113</heartrate>
+					<distance>389.08</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8030797653" lon="86.7150282953">
+				<time>2023-03-27T01:09:30</time>
+				<extensions>
+					<heartrate>122</heartrate>
+					<distance>389.48</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8030799329" lon="86.7150291335">
+				<time>2023-03-27T01:09:31</time>
+				<extensions>
+					<heartrate>129</heartrate>
+					<distance>389.48</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8030795138" lon="86.7150298879">
+				<time>2023-03-27T01:09:33</time>
+				<extensions>
+					<heartrate>132</heartrate>
+					<distance>389.54</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8030827828" lon="86.7150328215">
+				<time>2023-03-27T01:09:36</time>
+				<extensions>
+					<heartrate>133</heartrate>
+					<distance>389.54</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8030846268" lon="86.7150329053">
+				<time>2023-03-27T01:09:42</time>
+				<extensions>
+					<heartrate>136</heartrate>
+					<distance>390.04</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8030846268" lon="86.7150329053">
+				<time>2023-03-27T01:09:44</time>
+				<extensions>
+					<heartrate>137</heartrate>
+					<distance>391.13</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8030846268" lon="86.7150329053">
+				<time>2023-03-27T01:09:50</time>
+				<extensions>
+					<heartrate>138</heartrate>
+					<distance>392.06</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030876443" lon="86.7150392756">
+				<time>2023-03-27T01:09:54</time>
+				<extensions>
+					<heartrate>138</heartrate>
+					<distance>392.42</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030877281" lon="86.7150381859">
+				<time>2023-03-27T01:10:04</time>
+				<extensions>
+					<heartrate>135</heartrate>
+					<distance>392.42</distance>
+				</extensions>
+				<ele>3567.0</ele>
+			</trkpt>
+			<trkpt lat="27.8030846268" lon="86.7150329053">
+				<time>2023-03-27T01:10:08</time>
+				<extensions>
+					<heartrate>135</heartrate>
+					<distance>393.13</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030846268" lon="86.7150329053">
+				<time>2023-03-27T01:10:16</time>
+				<extensions>
+					<heartrate>132</heartrate>
+					<distance>395.07</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8030846268" lon="86.7150329053">
+				<time>2023-03-27T01:10:17</time>
+				<extensions>
+					<heartrate>132</heartrate>
+					<distance>395.07</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8030846268" lon="86.7150329053">
+				<time>2023-03-27T01:10:21</time>
+				<extensions>
+					<heartrate>130</heartrate>
+					<distance>396.1</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.803087309" lon="86.7150375992">
+				<time>2023-03-27T01:10:29</time>
+				<extensions>
+					<heartrate>127</heartrate>
+					<distance>396.1</distance>
+				</extensions>
+				<ele>3567.0</ele>
+			</trkpt>
+			<trkpt lat="27.8030861355" lon="86.7150380183">
+				<time>2023-03-27T01:10:32</time>
+				<extensions>
+					<heartrate>126</heartrate>
+					<distance>396.1</distance>
+				</extensions>
+				<ele>3567.2</ele>
+			</trkpt>
+			<trkpt lat="27.8030846268" lon="86.7150329053">
+				<time>2023-03-27T01:10:42</time>
+				<extensions>
+					<heartrate>123</heartrate>
+					<distance>396.12</distance>
+				</extensions>
+				<ele>3566.8</ele>
+			</trkpt>
+			<trkpt lat="27.8030846268" lon="86.7150329053">
+				<time>2023-03-27T01:10:47</time>
+				<extensions>
+					<heartrate>123</heartrate>
+					<distance>396.46</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030846268" lon="86.7150329053">
+				<time>2023-03-27T01:10:54</time>
+				<extensions>
+					<heartrate>120</heartrate>
+					<distance>397.34</distance>
+				</extensions>
+				<ele>3567.2</ele>
+			</trkpt>
+			<trkpt lat="27.8030846268" lon="86.7150329053">
+				<time>2023-03-27T01:10:59</time>
+				<extensions>
+					<heartrate>119</heartrate>
+					<distance>397.34</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8030846268" lon="86.7150329053">
+				<time>2023-03-27T01:11:02</time>
+				<extensions>
+					<heartrate>115</heartrate>
+					<distance>397.34</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030846268" lon="86.7150329053">
+				<time>2023-03-27T01:11:03</time>
+				<extensions>
+					<heartrate>110</heartrate>
+					<distance>397.34</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030846268" lon="86.7150329053">
+				<time>2023-03-27T01:11:05</time>
+				<extensions>
+					<heartrate>106</heartrate>
+					<distance>398.38</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030846268" lon="86.7150329053">
+				<time>2023-03-27T01:11:09</time>
+				<extensions>
+					<heartrate>104</heartrate>
+					<distance>398.38</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030846268" lon="86.7150329053">
+				<time>2023-03-27T01:11:22</time>
+				<extensions>
+					<heartrate>106</heartrate>
+					<distance>398.38</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8030846268" lon="86.7150329053">
+				<time>2023-03-27T01:11:34</time>
+				<extensions>
+					<heartrate>107</heartrate>
+					<distance>399.24</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8030840401" lon="86.7150371801">
+				<time>2023-03-27T01:11:50</time>
+				<extensions>
+					<heartrate>107</heartrate>
+					<distance>399.24</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.803059062" lon="86.7150201648">
+				<time>2023-03-27T01:12:00</time>
+				<extensions>
+					<heartrate>105</heartrate>
+					<distance>402.36</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.803059062" lon="86.7150201648">
+				<time>2023-03-27T01:12:02</time>
+				<extensions>
+					<heartrate>105</heartrate>
+					<speed>1.064</speed>
+					<distance>403.9</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030575532" lon="86.7149923369">
+				<time>2023-03-27T01:12:05</time>
+				<extensions>
+					<heartrate>103</heartrate>
+					<distance>405.5</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030575532" lon="86.7149923369">
+				<time>2023-03-27T01:12:15</time>
+				<extensions>
+					<heartrate>104</heartrate>
+					<distance>406.04</distance>
+				</extensions>
+				<ele>3565.8</ele>
+			</trkpt>
+			<trkpt lat="27.8030619118" lon="86.7149899062">
+				<time>2023-03-27T01:12:24</time>
+				<extensions>
+					<heartrate>102</heartrate>
+					<distance>406.04</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8030575532" lon="86.7149923369">
+				<time>2023-03-27T01:12:32</time>
+				<extensions>
+					<heartrate>99</heartrate>
+					<distance>406.04</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8030575532" lon="86.7149923369">
+				<time>2023-03-27T01:12:35</time>
+				<extensions>
+					<heartrate>96</heartrate>
+					<distance>406.43</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8030680306" lon="86.7149800155">
+				<time>2023-03-27T01:12:38</time>
+				<extensions>
+					<heartrate>94</heartrate>
+					<distance>407.28</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8030680306" lon="86.7149800155">
+				<time>2023-03-27T01:12:47</time>
+				<extensions>
+					<heartrate>97</heartrate>
+					<distance>407.3</distance>
+				</extensions>
+				<ele>3567.2</ele>
+			</trkpt>
+			<trkpt lat="27.8030680306" lon="86.7149800155">
+				<time>2023-03-27T01:12:48</time>
+				<extensions>
+					<heartrate>101</heartrate>
+					<distance>407.3</distance>
+				</extensions>
+				<ele>3567.2</ele>
+			</trkpt>
+			<trkpt lat="27.8030680306" lon="86.7149800155">
+				<time>2023-03-27T01:12:49</time>
+				<extensions>
+					<heartrate>104</heartrate>
+					<distance>407.3</distance>
+				</extensions>
+				<ele>3567.2</ele>
+			</trkpt>
+			<trkpt lat="27.8030583914" lon="86.7149911635">
+				<time>2023-03-27T01:12:53</time>
+				<extensions>
+					<heartrate>105</heartrate>
+					<distance>408.11</distance>
+				</extensions>
+				<ele>3567.0</ele>
+			</trkpt>
+			<trkpt lat="27.8030522726" lon="86.7150197458">
+				<time>2023-03-27T01:12:56</time>
+				<extensions>
+					<heartrate>105</heartrate>
+					<speed>1.157</speed>
+					<distance>410.89</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030497581" lon="86.7150199134">
+				<time>2023-03-27T01:12:59</time>
+				<extensions>
+					<heartrate>105</heartrate>
+					<distance>411.07</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.803049339" lon="86.7150124535">
+				<time>2023-03-27T01:13:12</time>
+				<extensions>
+					<heartrate>105</heartrate>
+					<distance>411.44</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030497581" lon="86.7150199134">
+				<time>2023-03-27T01:13:19</time>
+				<extensions>
+					<heartrate>105</heartrate>
+					<distance>412.31</distance>
+				</extensions>
+				<ele>3566.8</ele>
+			</trkpt>
+			<trkpt lat="27.8030497581" lon="86.7150199134">
+				<time>2023-03-27T01:13:21</time>
+				<extensions>
+					<heartrate>102</heartrate>
+					<distance>413.02</distance>
+				</extensions>
+				<ele>3566.8</ele>
+			</trkpt>
+			<trkpt lat="27.8030497581" lon="86.7150199134">
+				<time>2023-03-27T01:13:22</time>
+				<extensions>
+					<heartrate>99</heartrate>
+					<distance>413.35</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8030497581" lon="86.7150199134">
+				<time>2023-03-27T01:13:23</time>
+				<extensions>
+					<heartrate>96</heartrate>
+					<distance>413.93</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030611575" lon="86.7150453944">
+				<time>2023-03-27T01:13:28</time>
+				<extensions>
+					<heartrate>95</heartrate>
+					<speed>0.868</speed>
+					<distance>418.11</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8030611575" lon="86.7150453944">
+				<time>2023-03-27T01:13:36</time>
+				<extensions>
+					<heartrate>96</heartrate>
+					<distance>418.18</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8030611575" lon="86.7150453944">
+				<time>2023-03-27T01:13:47</time>
+				<extensions>
+					<heartrate>99</heartrate>
+					<distance>418.18</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8030611575" lon="86.7150453944">
+				<time>2023-03-27T01:13:49</time>
+				<extensions>
+					<heartrate>93</heartrate>
+					<distance>418.18</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8030611575" lon="86.7150453944">
+				<time>2023-03-27T01:13:50</time>
+				<extensions>
+					<heartrate>86</heartrate>
+					<distance>418.18</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8030583076" lon="86.7150457297">
+				<time>2023-03-27T01:13:52</time>
+				<extensions>
+					<heartrate>83</heartrate>
+					<distance>418.18</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8030591458" lon="86.7150458973">
+				<time>2023-03-27T01:13:54</time>
+				<extensions>
+					<heartrate>80</heartrate>
+					<distance>418.18</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8030591458" lon="86.7150457297">
+				<time>2023-03-27T01:13:55</time>
+				<extensions>
+					<heartrate>79</heartrate>
+					<distance>418.18</distance>
+				</extensions>
+				<ele>3565.8</ele>
+			</trkpt>
+			<trkpt lat="27.803059062" lon="86.7150441371">
+				<time>2023-03-27T01:14:06</time>
+				<extensions>
+					<heartrate>82</heartrate>
+					<distance>418.18</distance>
+				</extensions>
+				<ele>3565.8</ele>
+			</trkpt>
+			<trkpt lat="27.8030568827" lon="86.7150296364">
+				<time>2023-03-27T01:14:08</time>
+				<extensions>
+					<heartrate>86</heartrate>
+					<distance>419.16</distance>
+				</extensions>
+				<ele>3565.8</ele>
+			</trkpt>
+			<trkpt lat="27.8030574694" lon="86.7150177341">
+				<time>2023-03-27T01:14:11</time>
+				<extensions>
+					<heartrate>85</heartrate>
+					<cadence>47</cadence>
+					<speed>0.802</speed>
+					<distance>421.9</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030545358" lon="86.714991834">
+				<time>2023-03-27T01:14:17</time>
+				<extensions>
+					<heartrate>85</heartrate>
+					<distance>424.08</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.803053949" lon="86.7149892356">
+				<time>2023-03-27T01:14:23</time>
+				<extensions>
+					<heartrate>91</heartrate>
+					<distance>424.83</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.803053949" lon="86.7149892356">
+				<time>2023-03-27T01:14:24</time>
+				<extensions>
+					<heartrate>92</heartrate>
+					<distance>424.83</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.803053949" lon="86.7149892356">
+				<time>2023-03-27T01:14:38</time>
+				<extensions>
+					<heartrate>93</heartrate>
+					<distance>424.86</distance>
+				</extensions>
+				<ele>3566.8</ele>
+			</trkpt>
+			<trkpt lat="27.8030438907" lon="86.7149886489">
+				<time>2023-03-27T01:14:46</time>
+				<extensions>
+					<heartrate>90</heartrate>
+					<distance>424.86</distance>
+				</extensions>
+				<ele>3566.8</ele>
+			</trkpt>
+			<trkpt lat="27.8030437231" lon="86.7149887327">
+				<time>2023-03-27T01:14:48</time>
+				<extensions>
+					<heartrate>85</heartrate>
+					<distance>424.86</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8030435555" lon="86.7149888165">
+				<time>2023-03-27T01:14:49</time>
+				<extensions>
+					<heartrate>80</heartrate>
+					<distance>424.86</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.803053949" lon="86.7149892356">
+				<time>2023-03-27T01:14:51</time>
+				<extensions>
+					<heartrate>77</heartrate>
+					<distance>424.86</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8030400351" lon="86.7150002997">
+				<time>2023-03-27T01:15:02</time>
+				<extensions>
+					<heartrate>78</heartrate>
+					<speed>0.457</speed>
+					<distance>426.46</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8030400351" lon="86.7150002997">
+				<time>2023-03-27T01:15:08</time>
+				<extensions>
+					<heartrate>79</heartrate>
+					<distance>426.63</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8030400351" lon="86.7150002997">
+				<time>2023-03-27T01:15:14</time>
+				<extensions>
+					<heartrate>80</heartrate>
+					<distance>429.08</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8030458186" lon="86.7149934266">
+				<time>2023-03-27T01:15:19</time>
+				<extensions>
+					<heartrate>83</heartrate>
+					<distance>429.08</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8030450642" lon="86.7149934266">
+				<time>2023-03-27T01:15:22</time>
+				<extensions>
+					<heartrate>86</heartrate>
+					<distance>429.08</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8030443098" lon="86.714993678">
+				<time>2023-03-27T01:15:28</time>
+				<extensions>
+					<heartrate>83</heartrate>
+					<distance>429.08</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8030400351" lon="86.7150002997">
+				<time>2023-03-27T01:15:32</time>
+				<extensions>
+					<heartrate>81</heartrate>
+					<distance>429.5</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8030661028" lon="86.7149922531">
+				<time>2023-03-27T01:15:37</time>
+				<extensions>
+					<heartrate>81</heartrate>
+					<speed>0.896</speed>
+					<distance>432.64</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030667733" lon="86.7149930075">
+				<time>2023-03-27T01:15:42</time>
+				<extensions>
+					<heartrate>82</heartrate>
+					<distance>433.5</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8030712157" lon="86.7149932589">
+				<time>2023-03-27T01:15:51</time>
+				<extensions>
+					<heartrate>83</heartrate>
+					<distance>435.18</distance>
+				</extensions>
+				<ele>3565.8</ele>
+			</trkpt>
+			<trkpt lat="27.8030666895" lon="86.7149999645">
+				<time>2023-03-27T01:15:57</time>
+				<extensions>
+					<heartrate>82</heartrate>
+					<distance>436.8</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8030701261" lon="86.7149996292">
+				<time>2023-03-27T01:16:01</time>
+				<extensions>
+					<heartrate>81</heartrate>
+					<distance>437.59</distance>
+				</extensions>
+				<ele>3565.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030754067" lon="86.715003401">
+				<time>2023-03-27T01:16:05</time>
+				<extensions>
+					<heartrate>77</heartrate>
+					<speed>0.69</speed>
+					<distance>438.19</distance>
+				</extensions>
+				<ele>3565.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030749038" lon="86.7150028143">
+				<time>2023-03-27T01:16:06</time>
+				<extensions>
+					<heartrate>75</heartrate>
+					<speed>0.597</speed>
+					<distance>438.19</distance>
+				</extensions>
+				<ele>3565.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030735627" lon="86.7150008865">
+				<time>2023-03-27T01:16:07</time>
+				<extensions>
+					<heartrate>75</heartrate>
+					<speed>0.924</speed>
+					<distance>438.19</distance>
+				</extensions>
+				<ele>3565.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030701261" lon="86.7149996292">
+				<time>2023-03-27T01:16:11</time>
+				<extensions>
+					<heartrate>74</heartrate>
+					<speed>0.308</speed>
+					<distance>438.94</distance>
+				</extensions>
+				<ele>3565.6</ele>
+			</trkpt>
+			<trkpt lat="27.8030489199" lon="86.7149979528">
+				<time>2023-03-27T01:16:17</time>
+				<extensions>
+					<heartrate>77</heartrate>
+					<speed>0.569</speed>
+					<distance>439.92</distance>
+				</extensions>
+				<ele>3565.6</ele>
+			</trkpt>
+			<trkpt lat="27.8030482493" lon="86.7149955221">
+				<time>2023-03-27T01:16:19</time>
+				<extensions>
+					<heartrate>80</heartrate>
+					<distance>440.42</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030482493" lon="86.7149955221">
+				<time>2023-03-27T01:16:20</time>
+				<extensions>
+					<heartrate>83</heartrate>
+					<distance>440.63</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.803049339" lon="86.7150115315">
+				<time>2023-03-27T01:16:25</time>
+				<extensions>
+					<heartrate>84</heartrate>
+					<distance>441.74</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.803046992" lon="86.7150098551">
+				<time>2023-03-27T01:16:38</time>
+				<extensions>
+					<heartrate>81</heartrate>
+					<distance>441.74</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8030471597" lon="86.7150095198">
+				<time>2023-03-27T01:16:41</time>
+				<extensions>
+					<heartrate>81</heartrate>
+					<distance>441.74</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8030444775" lon="86.7150080949">
+				<time>2023-03-27T01:16:49</time>
+				<extensions>
+					<heartrate>79</heartrate>
+					<distance>441.75</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8030479979" lon="86.7150033172">
+				<time>2023-03-27T01:16:55</time>
+				<extensions>
+					<heartrate>80</heartrate>
+					<distance>442.58</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030453157" lon="86.7150050774">
+				<time>2023-03-27T01:16:57</time>
+				<extensions>
+					<heartrate>83</heartrate>
+					<distance>442.58</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030329943" lon="86.7150002997">
+				<time>2023-03-27T01:16:59</time>
+				<extensions>
+					<heartrate>86</heartrate>
+					<speed>0.662</speed>
+					<distance>444.06</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030152246" lon="86.7149933428">
+				<time>2023-03-27T01:17:01</time>
+				<extensions>
+					<heartrate>88</heartrate>
+					<speed>0.793</speed>
+					<distance>446.54</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8029832058" lon="86.7149688676">
+				<time>2023-03-27T01:17:07</time>
+				<extensions>
+					<heartrate>91</heartrate>
+					<cadence>44</cadence>
+					<speed>0.746</speed>
+					<distance>450.65</distance>
+				</extensions>
+				<ele>3567.0</ele>
+			</trkpt>
+			<trkpt lat="27.8029375244" lon="86.714946907">
+				<time>2023-03-27T01:17:13</time>
+				<extensions>
+					<heartrate>94</heartrate>
+					<speed>0.84</speed>
+					<distance>456.32</distance>
+				</extensions>
+				<ele>3567.0</ele>
+			</trkpt>
+			<trkpt lat="27.8029300645" lon="86.7149511818">
+				<time>2023-03-27T01:17:14</time>
+				<extensions>
+					<heartrate>95</heartrate>
+					<speed>0.849</speed>
+					<distance>457.03</distance>
+				</extensions>
+				<ele>3567.0</ele>
+			</trkpt>
+			<trkpt lat="27.80292009" lon="86.7149498407">
+				<time>2023-03-27T01:17:15</time>
+				<extensions>
+					<heartrate>98</heartrate>
+					<speed>0.849</speed>
+					<distance>458.3</distance>
+				</extensions>
+				<ele>3567.0</ele>
+			</trkpt>
+			<trkpt lat="27.80292009" lon="86.7149498407">
+				<time>2023-03-27T01:17:17</time>
+				<extensions>
+					<heartrate>101</heartrate>
+					<speed>0.868</speed>
+					<distance>459.76</distance>
+				</extensions>
+				<ele>3567.0</ele>
+			</trkpt>
+			<trkpt lat="27.8028772585" lon="86.7149204202">
+				<time>2023-03-27T01:17:21</time>
+				<extensions>
+					<heartrate>102</heartrate>
+					<cadence>41</cadence>
+					<speed>0.896</speed>
+					<distance>463.84</distance>
+				</extensions>
+				<ele>3567.2</ele>
+			</trkpt>
+			<trkpt lat="27.8028562199" lon="86.7149130441">
+				<time>2023-03-27T01:17:27</time>
+				<extensions>
+					<heartrate>103</heartrate>
+					<speed>0.802</speed>
+					<distance>466.57</distance>
+				</extensions>
+				<ele>3567.4</ele>
+			</trkpt>
+			<trkpt lat="27.8028562199" lon="86.7149130441">
+				<time>2023-03-27T01:17:28</time>
+				<extensions>
+					<heartrate>103</heartrate>
+					<speed>0.784</speed>
+					<distance>466.57</distance>
+				</extensions>
+				<ele>3567.6</ele>
+			</trkpt>
+			<trkpt lat="27.8028562199" lon="86.7149130441">
+				<time>2023-03-27T01:17:34</time>
+				<extensions>
+					<heartrate>106</heartrate>
+					<distance>466.57</distance>
+				</extensions>
+				<ele>3568.0</ele>
+			</trkpt>
+			<trkpt lat="27.8028562199" lon="86.7149130441">
+				<time>2023-03-27T01:17:45</time>
+				<extensions>
+					<heartrate>107</heartrate>
+					<distance>466.57</distance>
+				</extensions>
+				<ele>3568.0</ele>
+			</trkpt>
+			<trkpt lat="27.8028562199" lon="86.7149130441">
+				<time>2023-03-27T01:17:49</time>
+				<extensions>
+					<heartrate>103</heartrate>
+					<distance>466.57</distance>
+				</extensions>
+				<ele>3567.8</ele>
+			</trkpt>
+			<trkpt lat="27.8028562199" lon="86.7149130441">
+				<time>2023-03-27T01:17:51</time>
+				<extensions>
+					<heartrate>100</heartrate>
+					<distance>466.57</distance>
+				</extensions>
+				<ele>3567.8</ele>
+			</trkpt>
+			<trkpt lat="27.8028562199" lon="86.7149111163">
+				<time>2023-03-27T01:17:57</time>
+				<extensions>
+					<heartrate>97</heartrate>
+					<distance>466.57</distance>
+				</extensions>
+				<ele>3567.8</ele>
+			</trkpt>
+			<trkpt lat="27.8028560523" lon="86.7149114516">
+				<time>2023-03-27T01:17:58</time>
+				<extensions>
+					<heartrate>96</heartrate>
+					<distance>466.57</distance>
+				</extensions>
+				<ele>3567.8</ele>
+			</trkpt>
+			<trkpt lat="27.8028567228" lon="86.7149111163">
+				<time>2023-03-27T01:18:03</time>
+				<extensions>
+					<heartrate>93</heartrate>
+					<distance>466.57</distance>
+				</extensions>
+				<ele>3567.8</ele>
+			</trkpt>
+			<trkpt lat="27.8028497659" lon="86.7149191629">
+				<time>2023-03-27T01:18:12</time>
+				<extensions>
+					<heartrate>93</heartrate>
+					<distance>467.52</distance>
+				</extensions>
+				<ele>3567.6</ele>
+			</trkpt>
+			<trkpt lat="27.8027997259" lon="86.7149578873">
+				<time>2023-03-27T01:18:19</time>
+				<extensions>
+					<heartrate>92</heartrate>
+					<speed>1.138</speed>
+					<distance>474.34</distance>
+				</extensions>
+				<ele>3566.8</ele>
+			</trkpt>
+			<trkpt lat="27.8027508594" lon="86.715002479">
+				<time>2023-03-27T01:18:24</time>
+				<extensions>
+					<heartrate>93</heartrate>
+					<cadence>55</cadence>
+					<speed>1.446</speed>
+					<distance>481.25</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8027386218" lon="86.7150201648">
+				<time>2023-03-27T01:18:26</time>
+				<extensions>
+					<heartrate>93</heartrate>
+					<cadence>54</cadence>
+					<speed>1.381</speed>
+					<distance>483.53</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8027167451" lon="86.7150458973">
+				<time>2023-03-27T01:18:29</time>
+				<extensions>
+					<heartrate>96</heartrate>
+					<cadence>54</cadence>
+					<speed>1.241</speed>
+					<distance>486.92</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026843071" lon="86.7151098512">
+				<time>2023-03-27T01:18:35</time>
+				<extensions>
+					<heartrate>98</heartrate>
+					<cadence>53</cadence>
+					<speed>1.092</speed>
+					<distance>494.25</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026670404" lon="86.7151893117">
+				<time>2023-03-27T01:18:43</time>
+				<extensions>
+					<heartrate>97</heartrate>
+					<cadence>51</cadence>
+					<speed>1.101</speed>
+					<distance>502.38</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026651125" lon="86.7152083386">
+				<time>2023-03-27T01:18:49</time>
+				<extensions>
+					<heartrate>95</heartrate>
+					<speed>0.933</speed>
+					<distance>504.59</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026667051" lon="86.7152059916">
+				<time>2023-03-27T01:18:51</time>
+				<extensions>
+					<heartrate>92</heartrate>
+					<distance>504.63</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026533779" lon="86.7152111884">
+				<time>2023-03-27T01:18:55</time>
+				<extensions>
+					<heartrate>91</heartrate>
+					<distance>506.01</distance>
+				</extensions>
+				<ele>3565.8</ele>
+			</trkpt>
+			<trkpt lat="27.8026313335" lon="86.7152093444">
+				<time>2023-03-27T01:19:01</time>
+				<extensions>
+					<heartrate>94</heartrate>
+					<distance>509.22</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026285674" lon="86.7152119428">
+				<time>2023-03-27T01:19:07</time>
+				<extensions>
+					<heartrate>91</heartrate>
+					<distance>510.48</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026273102" lon="86.7152106017">
+				<time>2023-03-27T01:19:08</time>
+				<extensions>
+					<heartrate>91</heartrate>
+					<distance>510.57</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026203532" lon="86.7152056564">
+				<time>2023-03-27T01:19:18</time>
+				<extensions>
+					<heartrate>89</heartrate>
+					<distance>511.59</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026297409" lon="86.7152080033">
+				<time>2023-03-27T01:19:26</time>
+				<extensions>
+					<heartrate>88</heartrate>
+					<distance>512.32</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026297409" lon="86.7152148765">
+				<time>2023-03-27T01:19:34</time>
+				<extensions>
+					<heartrate>87</heartrate>
+					<distance>512.64</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026312497" lon="86.7152177263">
+				<time>2023-03-27T01:19:42</time>
+				<extensions>
+					<heartrate>88</heartrate>
+					<distance>513.08</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026381228" lon="86.7152010463">
+				<time>2023-03-27T01:19:48</time>
+				<extensions>
+					<heartrate>89</heartrate>
+					<distance>515.89</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026479296" lon="86.7152078357">
+				<time>2023-03-27T01:19:54</time>
+				<extensions>
+					<heartrate>86</heartrate>
+					<distance>517.09</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.802652875" lon="86.7152094282">
+				<time>2023-03-27T01:19:55</time>
+				<extensions>
+					<heartrate>86</heartrate>
+					<distance>517.61</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026168328" lon="86.7152149603">
+				<time>2023-03-27T01:20:02</time>
+				<extensions>
+					<heartrate>90</heartrate>
+					<distance>521.68</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026095405" lon="86.7152089253">
+				<time>2023-03-27T01:20:08</time>
+				<extensions>
+					<heartrate>91</heartrate>
+					<distance>523.0</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026223648" lon="86.7152267788">
+				<time>2023-03-27T01:20:14</time>
+				<extensions>
+					<heartrate>90</heartrate>
+					<distance>524.8</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026223648" lon="86.7152267788">
+				<time>2023-03-27T01:20:25</time>
+				<extensions>
+					<heartrate>92</heartrate>
+					<distance>525.59</distance>
+				</extensions>
+				<ele>3567.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026223648" lon="86.7152267788">
+				<time>2023-03-27T01:20:35</time>
+				<extensions>
+					<heartrate>89</heartrate>
+					<distance>525.59</distance>
+				</extensions>
+				<ele>3567.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026244603" lon="86.715227617">
+				<time>2023-03-27T01:20:41</time>
+				<extensions>
+					<heartrate>92</heartrate>
+					<distance>525.59</distance>
+				</extensions>
+				<ele>3567.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026239574" lon="86.7152251024">
+				<time>2023-03-27T01:20:53</time>
+				<extensions>
+					<heartrate>93</heartrate>
+					<distance>525.9</distance>
+				</extensions>
+				<ele>3567.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026245441" lon="86.7152269464">
+				<time>2023-03-27T01:21:01</time>
+				<extensions>
+					<heartrate>91</heartrate>
+					<distance>526.48</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026280645" lon="86.715216469">
+				<time>2023-03-27T01:21:10</time>
+				<extensions>
+					<heartrate>89</heartrate>
+					<distance>527.59</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026211914" lon="86.7152147088">
+				<time>2023-03-27T01:21:18</time>
+				<extensions>
+					<heartrate>90</heartrate>
+					<distance>528.1</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026184253" lon="86.7152244318">
+				<time>2023-03-27T01:21:26</time>
+				<extensions>
+					<heartrate>91</heartrate>
+					<distance>528.53</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026220296" lon="86.7152178939">
+				<time>2023-03-27T01:21:37</time>
+				<extensions>
+					<heartrate>92</heartrate>
+					<distance>529.98</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026211914" lon="86.7152147088">
+				<time>2023-03-27T01:21:46</time>
+				<extensions>
+					<heartrate>93</heartrate>
+					<distance>531.44</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026211914" lon="86.7152147088">
+				<time>2023-03-27T01:21:54</time>
+				<extensions>
+					<heartrate>91</heartrate>
+					<distance>534.04</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026260529" lon="86.7152341548">
+				<time>2023-03-27T01:21:59</time>
+				<extensions>
+					<heartrate>88</heartrate>
+					<distance>535.29</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026237059" lon="86.7152355798">
+				<time>2023-03-27T01:22:00</time>
+				<extensions>
+					<heartrate>88</heartrate>
+					<distance>535.29</distance>
+				</extensions>
+				<ele>3566.8</ele>
+			</trkpt>
+			<trkpt lat="27.8026260529" lon="86.7152341548">
+				<time>2023-03-27T01:22:09</time>
+				<extensions>
+					<heartrate>90</heartrate>
+					<distance>535.29</distance>
+				</extensions>
+				<ele>3567.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026260529" lon="86.7152341548">
+				<time>2023-03-27T01:22:18</time>
+				<extensions>
+					<heartrate>86</heartrate>
+					<distance>537.36</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026260529" lon="86.7152341548">
+				<time>2023-03-27T01:22:19</time>
+				<extensions>
+					<heartrate>85</heartrate>
+					<speed>0.289</speed>
+					<distance>537.36</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026237059" lon="86.7152311374">
+				<time>2023-03-27T01:22:29</time>
+				<extensions>
+					<heartrate>84</heartrate>
+					<distance>537.55</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.802641727" lon="86.7152177263">
+				<time>2023-03-27T01:22:41</time>
+				<extensions>
+					<heartrate>83</heartrate>
+					<distance>540.15</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026684653" lon="86.7152107693">
+				<time>2023-03-27T01:22:48</time>
+				<extensions>
+					<heartrate>84</heartrate>
+					<distance>543.13</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026649449" lon="86.7152111884">
+				<time>2023-03-27T01:22:56</time>
+				<extensions>
+					<heartrate>84</heartrate>
+					<distance>543.36</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026564792" lon="86.7152103502">
+				<time>2023-03-27T01:23:02</time>
+				<extensions>
+					<heartrate>87</heartrate>
+					<distance>544.06</distance>
+				</extensions>
+				<ele>3565.8</ele>
+			</trkpt>
+			<trkpt lat="27.8026564792" lon="86.7152103502">
+				<time>2023-03-27T01:23:08</time>
+				<extensions>
+					<heartrate>87</heartrate>
+					<distance>545.23</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026520368" lon="86.7152138706">
+				<time>2023-03-27T01:23:11</time>
+				<extensions>
+					<heartrate>80</heartrate>
+					<distance>545.81</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026538808" lon="86.7152173072">
+				<time>2023-03-27T01:23:12</time>
+				<extensions>
+					<heartrate>80</heartrate>
+					<distance>546.18</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.802651953" lon="86.7152222525">
+				<time>2023-03-27T01:23:13</time>
+				<extensions>
+					<heartrate>80</heartrate>
+					<distance>546.65</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026482649" lon="86.7152264435">
+				<time>2023-03-27T01:23:21</time>
+				<extensions>
+					<heartrate>80</heartrate>
+					<distance>548.02</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026482649" lon="86.7152264435">
+				<time>2023-03-27T01:23:28</time>
+				<extensions>
+					<heartrate>79</heartrate>
+					<distance>550.01</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026428167" lon="86.7152242642">
+				<time>2023-03-27T01:23:38</time>
+				<extensions>
+					<heartrate>78</heartrate>
+					<distance>550.03</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026436549" lon="86.7152242642">
+				<time>2023-03-27T01:23:49</time>
+				<extensions>
+					<heartrate>77</heartrate>
+					<distance>550.03</distance>
+				</extensions>
+				<ele>3566.8</ele>
+			</trkpt>
+			<trkpt lat="27.8026419785" lon="86.7152190674">
+				<time>2023-03-27T01:23:55</time>
+				<extensions>
+					<heartrate>90</heartrate>
+					<distance>551.07</distance>
+				</extensions>
+				<ele>3566.8</ele>
+			</trkpt>
+			<trkpt lat="27.8026421461" lon="86.7152160499">
+				<time>2023-03-27T01:23:56</time>
+				<extensions>
+					<heartrate>94</heartrate>
+					<distance>551.07</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026403021" lon="86.7152147088">
+				<time>2023-03-27T01:23:57</time>
+				<extensions>
+					<heartrate>94</heartrate>
+					<distance>551.32</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026397154" lon="86.7152150441">
+				<time>2023-03-27T01:23:58</time>
+				<extensions>
+					<heartrate>94</heartrate>
+					<distance>551.59</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026482649" lon="86.7152264435">
+				<time>2023-03-27T01:24:03</time>
+				<extensions>
+					<heartrate>92</heartrate>
+					<distance>551.96</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026599996" lon="86.7152124457">
+				<time>2023-03-27T01:24:09</time>
+				<extensions>
+					<heartrate>92</heartrate>
+					<distance>552.91</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026605025" lon="86.7152133677">
+				<time>2023-03-27T01:24:17</time>
+				<extensions>
+					<heartrate>92</heartrate>
+					<distance>553.09</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026605025" lon="86.7152133677">
+				<time>2023-03-27T01:24:25</time>
+				<extensions>
+					<heartrate>89</heartrate>
+					<distance>554.48</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026504442" lon="86.7152261082">
+				<time>2023-03-27T01:24:26</time>
+				<extensions>
+					<heartrate>85</heartrate>
+					<distance>554.48</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026504442" lon="86.7152255215">
+				<time>2023-03-27T01:24:27</time>
+				<extensions>
+					<heartrate>82</heartrate>
+					<distance>554.48</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026504442" lon="86.7152255215">
+				<time>2023-03-27T01:24:28</time>
+				<extensions>
+					<heartrate>82</heartrate>
+					<distance>554.48</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026504442" lon="86.7152255215">
+				<time>2023-03-27T01:24:37</time>
+				<extensions>
+					<heartrate>82</heartrate>
+					<distance>554.48</distance>
+				</extensions>
+				<ele>3566.8</ele>
+			</trkpt>
+			<trkpt lat="27.8026504442" lon="86.7152255215">
+				<time>2023-03-27T01:24:54</time>
+				<extensions>
+					<heartrate>82</heartrate>
+					<speed>0.868</speed>
+					<distance>554.48</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026504442" lon="86.7152255215">
+				<time>2023-03-27T01:25:07</time>
+				<extensions>
+					<heartrate>82</heartrate>
+					<distance>554.48</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026504442" lon="86.7152255215">
+				<time>2023-03-27T01:25:23</time>
+				<extensions>
+					<heartrate>81</heartrate>
+					<distance>554.48</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026504442" lon="86.7152255215">
+				<time>2023-03-27T01:25:27</time>
+				<extensions>
+					<heartrate>77</heartrate>
+					<distance>554.48</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026504442" lon="86.7152255215">
+				<time>2023-03-27T01:25:31</time>
+				<extensions>
+					<heartrate>77</heartrate>
+					<distance>554.49</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026504442" lon="86.7152255215">
+				<time>2023-03-27T01:25:43</time>
+				<extensions>
+					<heartrate>78</heartrate>
+					<distance>554.84</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026504442" lon="86.7152255215">
+				<time>2023-03-27T01:25:46</time>
+				<extensions>
+					<heartrate>82</heartrate>
+					<distance>554.84</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026413918" lon="86.7152211629">
+				<time>2023-03-27T01:25:48</time>
+				<extensions>
+					<heartrate>86</heartrate>
+					<distance>554.84</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026415594" lon="86.7152221687">
+				<time>2023-03-27T01:25:52</time>
+				<extensions>
+					<heartrate>88</heartrate>
+					<distance>554.84</distance>
+				</extensions>
+				<ele>3566.8</ele>
+			</trkpt>
+			<trkpt lat="27.8026424814" lon="86.7152222525">
+				<time>2023-03-27T01:26:01</time>
+				<extensions>
+					<heartrate>85</heartrate>
+					<distance>554.84</distance>
+				</extensions>
+				<ele>3565.8</ele>
+			</trkpt>
+			<trkpt lat="27.8026434872" lon="86.7152349092">
+				<time>2023-03-27T01:26:04</time>
+				<extensions>
+					<heartrate>79</heartrate>
+					<distance>555.84</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026445769" lon="86.7152329814">
+				<time>2023-03-27T01:26:05</time>
+				<extensions>
+					<heartrate>74</heartrate>
+					<distance>556.73</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026460018" lon="86.7152251862">
+				<time>2023-03-27T01:26:12</time>
+				<extensions>
+					<heartrate>71</heartrate>
+					<distance>556.73</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026457503" lon="86.7152251024">
+				<time>2023-03-27T01:26:13</time>
+				<extensions>
+					<heartrate>71</heartrate>
+					<distance>556.73</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.802650528" lon="86.7152256891">
+				<time>2023-03-27T01:26:19</time>
+				<extensions>
+					<heartrate>74</heartrate>
+					<distance>558.78</distance>
+				</extensions>
+				<ele>3565.8</ele>
+			</trkpt>
+			<trkpt lat="27.8026175871" lon="86.7152352445">
+				<time>2023-03-27T01:26:24</time>
+				<extensions>
+					<heartrate>74</heartrate>
+					<distance>562.68</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026340995" lon="86.715217391">
+				<time>2023-03-27T01:26:29</time>
+				<extensions>
+					<heartrate>73</heartrate>
+					<distance>565.23</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026490193" lon="86.715212781">
+				<time>2023-03-27T01:26:34</time>
+				<extensions>
+					<heartrate>72</heartrate>
+					<distance>567.01</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026633523" lon="86.7151952628">
+				<time>2023-03-27T01:26:39</time>
+				<extensions>
+					<heartrate>73</heartrate>
+					<distance>569.66</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.802662598" lon="86.7151644174">
+				<time>2023-03-27T01:26:44</time>
+				<extensions>
+					<heartrate>72</heartrate>
+					<distance>572.44</distance>
+				</extensions>
+				<ele>3566.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026643582" lon="86.7151214182">
+				<time>2023-03-27T01:26:49</time>
+				<extensions>
+					<heartrate>71</heartrate>
+					<speed>0.644</speed>
+					<distance>576.99</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026550543" lon="86.7150712945">
+				<time>2023-03-27T01:26:53</time>
+				<extensions>
+					<heartrate>72</heartrate>
+					<speed>0.849</speed>
+					<distance>581.72</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026381228" lon="86.7150214221">
+				<time>2023-03-27T01:26:59</time>
+				<extensions>
+					<heartrate>75</heartrate>
+					<cadence>53</cadence>
+					<speed>1.334</speed>
+					<distance>587.26</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026383743" lon="86.7150153872">
+				<time>2023-03-27T01:27:00</time>
+				<extensions>
+					<heartrate>76</heartrate>
+					<cadence>53</cadence>
+					<speed>1.316</speed>
+					<distance>587.78</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026142344" lon="86.7149651796">
+				<time>2023-03-27T01:27:07</time>
+				<extensions>
+					<heartrate>78</heartrate>
+					<speed>1.008</speed>
+					<distance>594.26</distance>
+				</extensions>
+				<ele>3567.0</ele>
+			</trkpt>
+			<trkpt lat="27.8025832213" lon="86.7149198335">
+				<time>2023-03-27T01:27:13</time>
+				<extensions>
+					<heartrate>80</heartrate>
+					<distance>598.68</distance>
+				</extensions>
+				<ele>3567.2</ele>
+			</trkpt>
+			<trkpt lat="27.8025790304" lon="86.7148996331">
+				<time>2023-03-27T01:27:18</time>
+				<extensions>
+					<heartrate>81</heartrate>
+					<distance>600.83</distance>
+				</extensions>
+				<ele>3567.6</ele>
+			</trkpt>
+			<trkpt lat="27.8025825508" lon="86.7148974538">
+				<time>2023-03-27T01:27:24</time>
+				<extensions>
+					<heartrate>75</heartrate>
+					<distance>600.91</distance>
+				</extensions>
+				<ele>3567.6</ele>
+			</trkpt>
+			<trkpt lat="27.8025913518" lon="86.7149146367">
+				<time>2023-03-27T01:27:27</time>
+				<extensions>
+					<heartrate>73</heartrate>
+					<cadence>40</cadence>
+					<speed>0.224</speed>
+					<distance>602.79</distance>
+				</extensions>
+				<ele>3567.6</ele>
+			</trkpt>
+			<trkpt lat="27.8025816288" lon="86.7149048299">
+				<time>2023-03-27T01:27:32</time>
+				<extensions>
+					<heartrate>72</heartrate>
+					<speed>0.606</speed>
+					<distance>604.89</distance>
+				</extensions>
+				<ele>3567.2</ele>
+			</trkpt>
+			<trkpt lat="27.8025892563" lon="86.7148807738">
+				<time>2023-03-27T01:27:37</time>
+				<extensions>
+					<heartrate>73</heartrate>
+					<distance>607.32</distance>
+				</extensions>
+				<ele>3567.4</ele>
+			</trkpt>
+			<trkpt lat="27.8025881667" lon="86.7148817796">
+				<time>2023-03-27T01:27:44</time>
+				<extensions>
+					<heartrate>71</heartrate>
+					<distance>608.54</distance>
+				</extensions>
+				<ele>3567.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026058525" lon="86.7148547061">
+				<time>2023-03-27T01:27:50</time>
+				<extensions>
+					<heartrate>70</heartrate>
+					<cadence>68</cadence>
+					<speed>0.495</speed>
+					<distance>610.85</distance>
+				</extensions>
+				<ele>3567.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026118036" lon="86.7148528621">
+				<time>2023-03-27T01:27:57</time>
+				<extensions>
+					<heartrate>68</heartrate>
+					<distance>611.27</distance>
+				</extensions>
+				<ele>3567.8</ele>
+			</trkpt>
+			<trkpt lat="27.8026095405" lon="86.7148495931">
+				<time>2023-03-27T01:28:03</time>
+				<extensions>
+					<heartrate>67</heartrate>
+					<distance>613.06</distance>
+				</extensions>
+				<ele>3568.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026103787" lon="86.714841295">
+				<time>2023-03-27T01:28:08</time>
+				<extensions>
+					<heartrate>69</heartrate>
+					<distance>614.18</distance>
+				</extensions>
+				<ele>3568.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026049305" lon="86.7148417979">
+				<time>2023-03-27T01:28:10</time>
+				<extensions>
+					<heartrate>74</heartrate>
+					<distance>614.54</distance>
+				</extensions>
+				<ele>3568.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026042599" lon="86.7148433905">
+				<time>2023-03-27T01:28:12</time>
+				<extensions>
+					<heartrate>78</heartrate>
+					<distance>614.54</distance>
+				</extensions>
+				<ele>3568.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026048467" lon="86.7148440611">
+				<time>2023-03-27T01:28:17</time>
+				<extensions>
+					<heartrate>79</heartrate>
+					<distance>615.35</distance>
+				</extensions>
+				<ele>3568.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026216105" lon="86.7149199173">
+				<time>2023-03-27T01:28:23</time>
+				<extensions>
+					<heartrate>79</heartrate>
+					<distance>622.32</distance>
+				</extensions>
+				<ele>3568.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026434034" lon="86.7150155548">
+				<time>2023-03-27T01:28:26</time>
+				<extensions>
+					<heartrate>79</heartrate>
+					<speed>3.835</speed>
+					<distance>632.11</distance>
+				</extensions>
+				<ele>3567.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026413079" lon="86.7150184885">
+				<time>2023-03-27T01:28:27</time>
+				<extensions>
+					<heartrate>79</heartrate>
+					<speed>3.835</speed>
+					<distance>632.63</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026413079" lon="86.7150184885">
+				<time>2023-03-27T01:28:28</time>
+				<extensions>
+					<heartrate>81</heartrate>
+					<speed>2.641</speed>
+					<distance>634.1</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026337642" lon="86.7149795126">
+				<time>2023-03-27T01:28:29</time>
+				<extensions>
+					<heartrate>83</heartrate>
+					<speed>1.624</speed>
+					<distance>636.54</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026276454" lon="86.7149241082">
+				<time>2023-03-27T01:28:31</time>
+				<extensions>
+					<heartrate>86</heartrate>
+					<speed>2.37</speed>
+					<distance>641.84</distance>
+				</extensions>
+				<ele>3566.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026181739" lon="86.714884378">
+				<time>2023-03-27T01:28:33</time>
+				<extensions>
+					<heartrate>86</heartrate>
+					<speed>2.585</speed>
+					<distance>646.06</distance>
+				</extensions>
+				<ele>3567.0</ele>
+			</trkpt>
+			<trkpt lat="27.802616246" lon="86.7148668598">
+				<time>2023-03-27T01:28:34</time>
+				<extensions>
+					<heartrate>87</heartrate>
+					<speed>2.585</speed>
+					<distance>647.77</distance>
+				</extensions>
+				<ele>3568.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026129771" lon="86.7148459889">
+				<time>2023-03-27T01:28:36</time>
+				<extensions>
+					<heartrate>90</heartrate>
+					<cadence>76</cadence>
+					<speed>2.006</speed>
+					<distance>650.04</distance>
+				</extensions>
+				<ele>3567.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026093729" lon="86.714844564">
+				<time>2023-03-27T01:28:37</time>
+				<extensions>
+					<heartrate>90</heartrate>
+					<cadence>76</cadence>
+					<speed>1.605</speed>
+					<distance>650.16</distance>
+				</extensions>
+				<ele>3567.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026078641" lon="86.7148400377">
+				<time>2023-03-27T01:28:38</time>
+				<extensions>
+					<heartrate>91</heartrate>
+					<speed>1.409</speed>
+					<distance>650.83</distance>
+				</extensions>
+				<ele>3567.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026100434" lon="86.7148387805">
+				<time>2023-03-27T01:28:40</time>
+				<extensions>
+					<heartrate>94</heartrate>
+					<speed>0.746</speed>
+					<distance>651.64</distance>
+				</extensions>
+				<ele>3568.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026135638" lon="86.714836685">
+				<time>2023-03-27T01:28:45</time>
+				<extensions>
+					<heartrate>94</heartrate>
+					<distance>651.64</distance>
+				</extensions>
+				<ele>3568.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026135638" lon="86.714836685">
+				<time>2023-03-27T01:28:47</time>
+				<extensions>
+					<heartrate>91</heartrate>
+					<distance>651.64</distance>
+				</extensions>
+				<ele>3568.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026011586" lon="86.71482604">
+				<time>2023-03-27T01:28:49</time>
+				<extensions>
+					<heartrate>93</heartrate>
+					<speed>0.737</speed>
+					<distance>652.83</distance>
+				</extensions>
+				<ele>3568.0</ele>
+			</trkpt>
+			<trkpt lat="27.8025963809" lon="86.714811204">
+				<time>2023-03-27T01:28:51</time>
+				<extensions>
+					<heartrate>93</heartrate>
+					<cadence>41</cadence>
+					<speed>0.98</speed>
+					<distance>655.61</distance>
+				</extensions>
+				<ele>3568.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026045952" lon="86.7147936858">
+				<time>2023-03-27T01:28:53</time>
+				<extensions>
+					<heartrate>92</heartrate>
+					<speed>1.232</speed>
+					<distance>656.71</distance>
+				</extensions>
+				<ele>3568.8</ele>
+			</trkpt>
+			<trkpt lat="27.8026045952" lon="86.7147936858">
+				<time>2023-03-27T01:28:54</time>
+				<extensions>
+					<heartrate>92</heartrate>
+					<cadence>41</cadence>
+					<speed>0.411</speed>
+					<distance>656.71</distance>
+				</extensions>
+				<ele>3568.8</ele>
+			</trkpt>
+			<trkpt lat="27.8026045952" lon="86.7147936858">
+				<time>2023-03-27T01:28:56</time>
+				<extensions>
+					<heartrate>92</heartrate>
+					<speed>0.513</speed>
+					<distance>657.46</distance>
+				</extensions>
+				<ele>3569.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026045952" lon="86.7147936858">
+				<time>2023-03-27T01:29:01</time>
+				<extensions>
+					<heartrate>89</heartrate>
+					<distance>657.46</distance>
+				</extensions>
+				<ele>3569.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026027512" lon="86.714788489">
+				<time>2023-03-27T01:29:06</time>
+				<extensions>
+					<heartrate>88</heartrate>
+					<distance>657.46</distance>
+				</extensions>
+				<ele>3569.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026045952" lon="86.7147936858">
+				<time>2023-03-27T01:29:23</time>
+				<extensions>
+					<heartrate>86</heartrate>
+					<distance>658.34</distance>
+				</extensions>
+				<ele>3569.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026199341" lon="86.7148053367">
+				<time>2023-03-27T01:29:34</time>
+				<extensions>
+					<heartrate>83</heartrate>
+					<distance>659.92</distance>
+				</extensions>
+				<ele>3569.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026180901" lon="86.7148067616">
+				<time>2023-03-27T01:29:35</time>
+				<extensions>
+					<heartrate>83</heartrate>
+					<speed>0.914</speed>
+					<distance>660.09</distance>
+				</extensions>
+				<ele>3569.4</ele>
+			</trkpt>
+			<trkpt lat="27.8026004881" lon="86.7148184963">
+				<time>2023-03-27T01:29:44</time>
+				<extensions>
+					<heartrate>84</heartrate>
+					<distance>661.66</distance>
+				</extensions>
+				<ele>3569.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026010748" lon="86.7148286384">
+				<time>2023-03-27T01:29:46</time>
+				<extensions>
+					<heartrate>85</heartrate>
+					<distance>662.95</distance>
+				</extensions>
+				<ele>3568.0</ele>
+			</trkpt>
+			<trkpt lat="27.8026022483" lon="86.7148367688">
+				<time>2023-03-27T01:29:49</time>
+				<extensions>
+					<heartrate>86</heartrate>
+					<distance>664.09</distance>
+				</extensions>
+				<ele>3567.8</ele>
+			</trkpt>
+			<trkpt lat="27.8026055172" lon="86.7148298956">
+				<time>2023-03-27T01:29:56</time>
+				<extensions>
+					<heartrate>86</heartrate>
+					<distance>664.43</distance>
+				</extensions>
+				<ele>3567.6</ele>
+			</trkpt>
+			<trkpt lat="27.802597722" lon="86.7148692906">
+				<time>2023-03-27T01:30:00</time>
+				<extensions>
+					<heartrate>85</heartrate>
+					<distance>668.24</distance>
+				</extensions>
+				<ele>3567.6</ele>
+			</trkpt>
+			<trkpt lat="27.8025907651" lon="86.714882534">
+				<time>2023-03-27T01:30:04</time>
+				<extensions>
+					<heartrate>82</heartrate>
+					<cadence>60</cadence>
+					<speed>0.709</speed>
+					<distance>670.75</distance>
+				</extensions>
+				<ele>3567.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026244603" lon="86.7148623336">
+				<time>2023-03-27T01:30:06</time>
+				<extensions>
+					<heartrate>79</heartrate>
+					<cadence>53</cadence>
+					<speed>0.765</speed>
+					<distance>673.82</distance>
+				</extensions>
+				<ele>3567.6</ele>
+			</trkpt>
+			<trkpt lat="27.8026299924" lon="86.7148587294">
+				<time>2023-03-27T01:30:10</time>
+				<extensions>
+					<heartrate>78</heartrate>
+					<speed>0.457</speed>
+					<distance>675.19</distance>
+				</extensions>
+				<ele>3568.2</ele>
+			</trkpt>
+			<trkpt lat="27.8026552219" lon="86.7148191668">
+				<time>2023-03-27T01:33:22</time>
+				<extensions>
+					<heartrate>76</heartrate>
+					<distance>675.44</distance>
+				</extensions>
+				<ele>3567.8</ele>
+			</trkpt>
+			<trkpt lat="27.8026753385" lon="86.71481397">
+				<time>2023-03-27T01:33:25</time>
+				<extensions>
+					<heartrate>73</heartrate>
+					<cadence>51</cadence>
+					<distance>677.72</distance>
+				</extensions>
+				<ele>3567.8</ele>
+			</trkpt>
+			<trkpt lat="27.8026842233" lon="86.7148225196">
+				<time>2023-03-27T01:33:27</time>
+				<extensions>
+					<heartrate>70</heartrate>
+					<distance>678.76</distance>
+				</extensions>
+				<ele>3567.6</ele>
+			</trkpt>
+			<trkpt lat="27.8027040046" lon="86.7148270458">
+				<time>2023-03-27T01:33:30</time>
+				<extensions>
+					<heartrate>70</heartrate>
+					<distance>681.04</distance>
+				</extensions>
+				<ele>3567.4</ele>
+			</trkpt>
+			<trkpt lat="27.8027563076" lon="86.7148537003">
+				<time>2023-03-27T01:33:37</time>
+				<extensions>
+					<heartrate>71</heartrate>
+					<cadence>44</cadence>
+					<speed>0.952</speed>
+					<distance>687.32</distance>
+				</extensions>
+				<ele>3567.2</ele>
+			</trkpt>
+			<trkpt lat="27.802819591" lon="86.7148846295">
+				<time>2023-03-27T01:33:47</time>
+				<extensions>
+					<heartrate>71</heartrate>
+					<cadence>80</cadence>
+					<speed>0.756</speed>
+					<distance>694.85</distance>
+				</extensions>
+				<ele>3567.2</ele>
+			</trkpt>
+			<trkpt lat="27.8028612491" lon="86.7148996331">
+				<time>2023-03-27T01:33:53</time>
+				<extensions>
+					<heartrate>71</heartrate>
+					<speed>0.709</speed>
+					<distance>700.01</distance>
+				</extensions>
+				<ele>3567.2</ele>
+			</trkpt>
+			<trkpt lat="27.802896956" lon="86.7149139661">
+				<time>2023-03-27T01:33:59</time>
+				<extensions>
+					<heartrate>70</heartrate>
+					<cadence>43</cadence>
+					<speed>0.746</speed>
+					<distance>704.27</distance>
+				</extensions>
+				<ele>3567.0</ele>
+			</trkpt>
+			<trkpt lat="27.8029162344" lon="86.7149262875">
+				<time>2023-03-27T01:34:02</time>
+				<extensions>
+					<heartrate>71</heartrate>
+					<cadence>43</cadence>
+					<speed>0.746</speed>
+					<distance>706.76</distance>
+				</extensions>
+				<ele>3567.0</ele>
+			</trkpt>
+			<trkpt lat="27.8029713873" lon="86.7149511818">
+				<time>2023-03-27T01:34:10</time>
+				<extensions>
+					<heartrate>70</heartrate>
+					<cadence>45</cadence>
+					<speed>0.83</speed>
+					<distance>713.31</distance>
+				</extensions>
+				<ele>3567.2</ele>
+			</trkpt>
+			<trkpt lat="27.8030328266" lon="86.7149734776">
+				<time>2023-03-27T01:34:18</time>
+				<extensions>
+					<heartrate>70</heartrate>
+					<cadence>47</cadence>
+					<speed>0.849</speed>
+					<distance>720.52</distance>
+				</extensions>
+				<ele>3567.0</ele>
+			</trkpt>
+			<trkpt lat="27.8030892368" lon="86.7149994615">
+				<time>2023-03-27T01:34:26</time>
+				<extensions>
+					<heartrate>73</heartrate>
+					<cadence>46</cadence>
+					<speed>0.849</speed>
+					<distance>727.55</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8030941822" lon="86.7149985395">
+				<time>2023-03-27T01:34:27</time>
+				<extensions>
+					<heartrate>73</heartrate>
+					<cadence>46</cadence>
+					<speed>0.858</speed>
+					<distance>728.05</distance>
+				</extensions>
+				<ele>3566.4</ele>
+			</trkpt>
+			<trkpt lat="27.8031350859" lon="86.7149781715">
+				<time>2023-03-27T01:34:33</time>
+				<extensions>
+					<heartrate>72</heartrate>
+					<cadence>40</cadence>
+					<speed>0.858</speed>
+					<distance>733.08</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8031681944" lon="86.7149544507">
+				<time>2023-03-27T01:34:37</time>
+				<extensions>
+					<heartrate>72</heartrate>
+					<speed>0.905</speed>
+					<distance>737.35</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8031955194" lon="86.7149242759">
+				<time>2023-03-27T01:34:41</time>
+				<extensions>
+					<heartrate>72</heartrate>
+					<cadence>49</cadence>
+					<speed>0.98</speed>
+					<distance>741.84</distance>
+				</extensions>
+				<ele>3566.0</ele>
+			</trkpt>
+			<trkpt lat="27.8032495826" lon="86.7148873117">
+				<time>2023-03-27T01:34:47</time>
+				<extensions>
+					<heartrate>71</heartrate>
+					<cadence>45</cadence>
+					<speed>1.045</speed>
+					<distance>749.04</distance>
+				</extensions>
+				<ele>3565.0</ele>
+			</trkpt>
+			<trkpt lat="27.8032587189" lon="86.714887144">
+				<time>2023-03-27T01:34:48</time>
+				<extensions>
+					<heartrate>71</heartrate>
+					<cadence>45</cadence>
+					<speed>1.054</speed>
+					<distance>749.79</distance>
+				</extensions>
+				<ele>3564.8</ele>
+			</trkpt>
+			<trkpt lat="27.803292498" lon="86.7148821149">
+				<time>2023-03-27T01:34:53</time>
+				<extensions>
+					<heartrate>72</heartrate>
+					<cadence>51</cadence>
+					<speed>1.064</speed>
+					<distance>753.77</distance>
+				</extensions>
+				<ele>3564.0</ele>
+			</trkpt>
+			<trkpt lat="27.8033081722" lon="86.7148863897">
+				<time>2023-03-27T01:34:55</time>
+				<extensions>
+					<heartrate>72</heartrate>
+					<cadence>51</cadence>
+					<speed>1.026</speed>
+					<distance>755.64</distance>
+				</extensions>
+				<ele>3563.8</ele>
+			</trkpt>
+			<trkpt lat="27.8033370897" lon="86.714900136">
+				<time>2023-03-27T01:34:59</time>
+				<extensions>
+					<heartrate>71</heartrate>
+					<cadence>52</cadence>
+					<speed>1.017</speed>
+					<distance>758.63</distance>
+				</extensions>
+				<ele>3563.4</ele>
+			</trkpt>
+			<trkpt lat="27.8033607267" lon="86.714902902">
+				<time>2023-03-27T01:35:02</time>
+				<extensions>
+					<heartrate>72</heartrate>
+					<cadence>52</cadence>
+					<speed>0.989</speed>
+					<distance>761.29</distance>
+				</extensions>
+				<ele>3563.2</ele>
+			</trkpt>
+			<trkpt lat="27.8033818491" lon="86.7149074282">
+				<time>2023-03-27T01:35:04</time>
+				<extensions>
+					<heartrate>70</heartrate>
+					<cadence>52</cadence>
+					<speed>0.989</speed>
+					<distance>763.35</distance>
+				</extensions>
+				<ele>3562.6</ele>
+			</trkpt>
+			<trkpt lat="27.8033960145" lon="86.7149078473">
+				<time>2023-03-27T01:35:06</time>
+				<extensions>
+					<heartrate>68</heartrate>
+					<cadence>52</cadence>
+					<speed>0.998</speed>
+					<distance>765.33</distance>
+				</extensions>
+				<ele>3562.2</ele>
+			</trkpt>
+			<trkpt lat="27.803437924" lon="86.7149376031">
+				<time>2023-03-27T01:35:12</time>
+				<extensions>
+					<heartrate>66</heartrate>
+					<speed>1.054</speed>
+					<distance>770.91</distance>
+				</extensions>
+				<ele>3561.6</ele>
+			</trkpt>
+			<trkpt lat="27.8034407739" lon="86.7149376031">
+				<time>2023-03-27T01:35:13</time>
+				<extensions>
+					<heartrate>66</heartrate>
+					<speed>1.054</speed>
+					<distance>771.66</distance>
+				</extensions>
+				<ele>3561.6</ele>
+			</trkpt>
+			<trkpt lat="27.803444881" lon="86.7149326578">
+				<time>2023-03-27T01:35:14</time>
+				<extensions>
+					<heartrate>66</heartrate>
+					<speed>1.036</speed>
+					<distance>771.66</distance>
+				</extensions>
+				<ele>3561.4</ele>
+			</trkpt>
+			<trkpt lat="27.8034890536" lon="86.714922851">
+				<time>2023-03-27T01:35:19</time>
+				<extensions>
+					<heartrate>67</heartrate>
+					<speed>0.97</speed>
+					<distance>776.84</distance>
+				</extensions>
+				<ele>3560.8</ele>
+			</trkpt>
+			<trkpt lat="27.803494921" lon="86.7149218451">
+				<time>2023-03-27T01:35:20</time>
+				<extensions>
+					<heartrate>67</heartrate>
+					<cadence>53</cadence>
+					<speed>0.98</speed>
+					<distance>777.33</distance>
+				</extensions>
+				<ele>3560.6</ele>
+			</trkpt>
+			<trkpt lat="27.8035394289" lon="86.7149153911">
+				<time>2023-03-27T01:35:26</time>
+				<extensions>
+					<heartrate>67</heartrate>
+					<speed>0.97</speed>
+					<distance>782.45</distance>
+				</extensions>
+				<ele>3559.6</ele>
+			</trkpt>
+			<trkpt lat="27.8035913967" lon="86.7149124574">
+				<time>2023-03-27T01:35:32</time>
+				<extensions>
+					<heartrate>67</heartrate>
+					<speed>0.933</speed>
+					<distance>788.15</distance>
+				</extensions>
+				<ele>3558.8</ele>
+			</trkpt>
+			<trkpt lat="27.8036150336" lon="86.7149101943">
+				<time>2023-03-27T01:35:35</time>
+				<extensions>
+					<heartrate>67</heartrate>
+					<speed>0.933</speed>
+					<distance>790.97</distance>
+				</extensions>
+				<ele>3558.4</ele>
+			</trkpt>
+			<trkpt lat="27.8036467172" lon="86.7149102781">
+				<time>2023-03-27T01:35:40</time>
+				<extensions>
+					<heartrate>67</heartrate>
+					<cadence>50</cadence>
+					<speed>0.914</speed>
+					<distance>794.51</distance>
+				</extensions>
+				<ele>3558.0</ele>
+			</trkpt>
+			<trkpt lat="27.8037090786" lon="86.7149012256">
+				<time>2023-03-27T01:35:48</time>
+				<extensions>
+					<heartrate>67</heartrate>
+					<cadence>49</cadence>
+					<speed>0.914</speed>
+					<distance>801.47</distance>
+				</extensions>
+				<ele>3558.2</ele>
+			</trkpt>
+			<trkpt lat="27.8037271835" lon="86.7149013095">
+				<time>2023-03-27T01:35:50</time>
+				<extensions>
+					<heartrate>67</heartrate>
+					<cadence>49</cadence>
+					<speed>0.942</speed>
+					<distance>803.18</distance>
+				</extensions>
+				<ele>3558.0</ele>
+			</trkpt>
+			<trkpt lat="27.8037667461" lon="86.7149022315">
+				<time>2023-03-27T01:35:54</time>
+				<extensions>
+					<heartrate>67</heartrate>
+					<cadence>46</cadence>
+					<speed>0.998</speed>
+					<distance>807.6</distance>
+				</extensions>
+				<ele>3557.8</ele>
+			</trkpt>
+			<trkpt lat="27.8038050514" lon="86.7149053328">
+				<time>2023-03-27T01:36:00</time>
+				<extensions>
+					<heartrate>66</heartrate>
+					<cadence>43</cadence>
+					<speed>0.998</speed>
+					<distance>811.7</distance>
+				</extensions>
+				<ele>3557.4</ele>
+			</trkpt>
+			<trkpt lat="27.8038298618" lon="86.7148953583">
+				<time>2023-03-27T01:36:03</time>
+				<extensions>
+					<heartrate>66</heartrate>
+					<cadence>49</cadence>
+					<speed>0.98</speed>
+					<distance>814.9</distance>
+				</extensions>
+				<ele>3556.0</ele>
+			</trkpt>
+			<trkpt lat="27.8038474638" lon="86.7148921732">
+				<time>2023-03-27T01:36:05</time>
+				<extensions>
+					<heartrate>65</heartrate>
+					<cadence>50</cadence>
+					<speed>0.914</speed>
+					<distance>816.97</distance>
+				</extensions>
+				<ele>3556.0</ele>
+			</trkpt>
+			<trkpt lat="27.8039144352" lon="86.7148930114">
+				<time>2023-03-27T01:36:12</time>
+				<extensions>
+					<heartrate>66</heartrate>
+					<cadence>53</cadence>
+					<speed>1.008</speed>
+					<distance>824.53</distance>
+				</extensions>
+				<ele>3556.4</ele>
+			</trkpt>
+			<trkpt lat="27.8039517347" lon="86.7148934305">
+				<time>2023-03-27T01:36:17</time>
+				<extensions>
+					<heartrate>67</heartrate>
+					<cadence>50</cadence>
+					<speed>0.98</speed>
+					<distance>828.69</distance>
+				</extensions>
+				<ele>3556.2</ele>
+			</trkpt>
+			<trkpt lat="27.8039695043" lon="86.7148900777">
+				<time>2023-03-27T01:36:20</time>
+				<extensions>
+					<heartrate>67</heartrate>
+					<cadence>50</cadence>
+					<speed>0.97</speed>
+					<distance>831.11</distance>
+				</extensions>
+				<ele>3556.0</ele>
+			</trkpt>
+			<trkpt lat="27.8040260822" lon="86.7149090208">
+				<time>2023-03-27T01:36:25</time>
+				<extensions>
+					<heartrate>69</heartrate>
+					<cadence>50</cadence>
+					<speed>0.97</speed>
+					<distance>836.99</distance>
+				</extensions>
+				<ele>3555.6</ele>
+			</trkpt>
+			<trkpt lat="27.8040703386" lon="86.714895945">
+				<time>2023-03-27T01:36:30</time>
+				<extensions>
+					<heartrate>70</heartrate>
+					<cadence>49</cadence>
+					<speed>0.989</speed>
+					<distance>842.24</distance>
+				</extensions>
+				<ele>3555.0</ele>
+			</trkpt>
+			<trkpt lat="27.804079894" lon="86.7148878146">
+				<time>2023-03-27T01:36:31</time>
+				<extensions>
+					<heartrate>69</heartrate>
+					<cadence>49</cadence>
+					<speed>1.008</speed>
+					<distance>843.67</distance>
+				</extensions>
+				<ele>3554.6</ele>
+			</trkpt>
+			<trkpt lat="27.804112751" lon="86.714837607">
+				<time>2023-03-27T01:36:36</time>
+				<extensions>
+					<heartrate>68</heartrate>
+					<cadence>48</cadence>
+					<speed>1.092</speed>
+					<distance>849.3</distance>
+				</extensions>
+				<ele>3554.6</ele>
+			</trkpt>
+			<trkpt lat="27.8041607793" lon="86.7147799395">
+				<time>2023-03-27T01:36:42</time>
+				<extensions>
+					<heartrate>69</heartrate>
+					<cadence>53</cadence>
+					<speed>1.12</speed>
+					<distance>857.37</distance>
+				</extensions>
+				<ele>3554.4</ele>
+			</trkpt>
+			<trkpt lat="27.8041996714" lon="86.7147438973">
+				<time>2023-03-27T01:36:47</time>
+				<extensions>
+					<heartrate>68</heartrate>
+					<cadence>53</cadence>
+					<speed>1.176</speed>
+					<distance>862.32</distance>
+				</extensions>
+				<ele>3554.0</ele>
+			</trkpt>
+			<trkpt lat="27.8042088915" lon="86.7147350963">
+				<time>2023-03-27T01:36:48</time>
+				<extensions>
+					<heartrate>68</heartrate>
+					<cadence>53</cadence>
+					<speed>1.166</speed>
+					<distance>864.13</distance>
+				</extensions>
+				<ele>3553.8</ele>
+			</trkpt>
+			<trkpt lat="27.8042578418" lon="86.7146502715">
+				<time>2023-03-27T01:36:56</time>
+				<extensions>
+					<heartrate>68</heartrate>
+					<cadence>55</cadence>
+					<speed>1.232</speed>
+					<distance>874.14</distance>
+				</extensions>
+				<ele>3553.2</ele>
+			</trkpt>
+			<trkpt lat="27.8042728454" lon="86.7145809531">
+				<time>2023-03-27T01:37:02</time>
+				<extensions>
+					<heartrate>66</heartrate>
+					<cadence>55</cadence>
+					<speed>1.204</speed>
+					<distance>880.9</distance>
+				</extensions>
+				<ele>3553.0</ele>
+			</trkpt>
+			<trkpt lat="27.8042778745" lon="86.7145719845">
+				<time>2023-03-27T01:37:03</time>
+				<extensions>
+					<heartrate>66</heartrate>
+					<cadence>55</cadence>
+					<speed>1.204</speed>
+					<distance>882.03</distance>
+				</extensions>
+				<ele>3552.8</ele>
+			</trkpt>
+			<trkpt lat="27.8043096419" lon="86.7145136464">
+				<time>2023-03-27T01:37:08</time>
+				<extensions>
+					<heartrate>66</heartrate>
+					<cadence>100</cadence>
+					<speed>1.232</speed>
+					<distance>888.33</distance>
+				</extensions>
+				<ele>3552.2</ele>
+			</trkpt>
+			<trkpt lat="27.8043062054" lon="86.7144989781">
+				<time>2023-03-27T01:37:10</time>
+				<extensions>
+					<heartrate>67</heartrate>
+					<cadence>53</cadence>
+					<speed>1.306</speed>
+					<distance>889.73</distance>
+				</extensions>
+				<ele>3551.8</ele>
+			</trkpt>
+			<trkpt lat="27.8043246455" lon="86.7144640256">
+				<time>2023-03-27T01:37:13</time>
+				<extensions>
+					<heartrate>68</heartrate>
+					<cadence>53</cadence>
+					<speed>1.269</speed>
+					<distance>893.84</distance>
+				</extensions>
+				<ele>3551.2</ele>
+			</trkpt>
+			<trkpt lat="27.804342499" lon="86.7144375388">
+				<time>2023-03-27T01:37:16</time>
+				<extensions>
+					<heartrate>69</heartrate>
+					<cadence>51</cadence>
+					<speed>1.26</speed>
+					<distance>897.26</distance>
+				</extensions>
+				<ele>3550.8</ele>
+			</trkpt>
+			<trkpt lat="27.8043609392" lon="86.7144066095">
+				<time>2023-03-27T01:37:20</time>
+				<extensions>
+					<heartrate>69</heartrate>
+					<cadence>51</cadence>
+					<speed>1.185</speed>
+					<distance>900.78</distance>
+				</extensions>
+				<ele>3550.2</ele>
+			</trkpt>
+			<trkpt lat="27.8043708298" lon="86.7143853195">
+				<time>2023-03-27T01:37:22</time>
+				<extensions>
+					<heartrate>69</heartrate>
+					<cadence>52</cadence>
+					<speed>1.157</speed>
+					<distance>903.11</distance>
+				</extensions>
+				<ele>3549.8</ele>
+			</trkpt>
+			<trkpt lat="27.804380469" lon="86.7143490259">
+				<time>2023-03-27T01:37:26</time>
+				<extensions>
+					<heartrate>68</heartrate>
+					<cadence>55</cadence>
+					<speed>1.12</speed>
+					<distance>906.87</distance>
+				</extensions>
+				<ele>3549.0</ele>
+			</trkpt>
+			<trkpt lat="27.8043838218" lon="86.7143268976">
+				<time>2023-03-27T01:37:28</time>
+				<extensions>
+					<heartrate>68</heartrate>
+					<cadence>52</cadence>
+					<speed>1.101</speed>
+					<distance>908.73</distance>
+				</extensions>
+				<ele>3548.6</ele>
+			</trkpt>
+			<trkpt lat="27.8043920361" lon="86.71429337">
+				<time>2023-03-27T01:37:31</time>
+				<extensions>
+					<heartrate>68</heartrate>
+					<cadence>52</cadence>
+					<speed>1.082</speed>
+					<distance>912.31</distance>
+				</extensions>
+				<ele>3547.8</ele>
+			</trkpt>
+			<trkpt lat="27.8043979872" lon="86.7142613512">
+				<time>2023-03-27T01:37:35</time>
+				<extensions>
+					<heartrate>66</heartrate>
+					<cadence>52</cadence>
+					<speed>1.073</speed>
+					<distance>915.35</distance>
+				</extensions>
+				<ele>3547.4</ele>
+			</trkpt>
+			<trkpt lat="27.8044005018" lon="86.7142434977">
+				<time>2023-03-27T01:37:38</time>
+				<extensions>
+					<heartrate>65</heartrate>
+					<speed>1.026</speed>
+					<distance>917.03</distance>
+				</extensions>
+				<ele>3547.0</ele>
+			</trkpt>
+			<trkpt lat="27.80440134" lon="86.7142181005">
+				<time>2023-03-27T01:37:41</time>
+				<extensions>
+					<heartrate>64</heartrate>
+					<speed>1.017</speed>
+					<distance>919.02</distance>
+				</extensions>
+				<ele>3546.2</ele>
+			</trkpt>
+			<trkpt lat="27.8044025972" lon="86.7141899373">
+				<time>2023-03-27T01:37:45</time>
+				<extensions>
+					<heartrate>63</heartrate>
+					<cadence>48</cadence>
+					<speed>0.989</speed>
+					<distance>921.52</distance>
+				</extensions>
+				<ele>3545.6</ele>
+			</trkpt>
+			<trkpt lat="27.8044025972" lon="86.7141714133">
+				<time>2023-03-27T01:37:47</time>
+				<extensions>
+					<heartrate>62</heartrate>
+					<cadence>51</cadence>
+					<speed>0.97</speed>
+					<distance>923.21</distance>
+				</extensions>
+				<ele>3545.2</ele>
+			</trkpt>
+			<trkpt lat="27.8044071235" lon="86.714135455">
+				<time>2023-03-27T01:37:52</time>
+				<extensions>
+					<heartrate>60</heartrate>
+					<cadence>53</cadence>
+					<speed>0.961</speed>
+					<distance>927.34</distance>
+				</extensions>
+				<ele>3544.4</ele>
+			</trkpt>
+			<trkpt lat="27.8044038545" lon="86.7141274922">
+				<time>2023-03-27T01:37:53</time>
+				<extensions>
+					<heartrate>60</heartrate>
+					<cadence>52</cadence>
+					<speed>0.952</speed>
+					<distance>928.08</distance>
+				</extensions>
+				<ele>3544.2</ele>
+			</trkpt>
+			<trkpt lat="27.8044054471" lon="86.7140917014">
+				<time>2023-03-27T01:37:57</time>
+				<extensions>
+					<heartrate>60</heartrate>
+					<cadence>53</cadence>
+					<speed>0.933</speed>
+					<distance>931.36</distance>
+				</extensions>
+				<ele>3543.4</ele>
+			</trkpt>
+			<trkpt lat="27.8044007532" lon="86.7140697408">
+				<time>2023-03-27T01:37:59</time>
+				<extensions>
+					<heartrate>60</heartrate>
+					<cadence>53</cadence>
+					<speed>0.933</speed>
+					<distance>933.73</distance>
+				</extensions>
+				<ele>3543.2</ele>
+			</trkpt>
+			<trkpt lat="27.8044128232" lon="86.7140077148">
+				<time>2023-03-27T01:38:06</time>
+				<extensions>
+					<heartrate>61</heartrate>
+					<cadence>53</cadence>
+					<speed>0.942</speed>
+					<distance>940.0</distance>
+				</extensions>
+				<ele>3542.2</ele>
+			</trkpt>
+			<trkpt lat="27.8044122364" lon="86.7139938846">
+				<time>2023-03-27T01:38:07</time>
+				<extensions>
+					<heartrate>62</heartrate>
+					<cadence>53</cadence>
+					<speed>0.942</speed>
+					<distance>941.34</distance>
+				</extensions>
+				<ele>3542.0</ele>
+			</trkpt>
+			<trkpt lat="27.8044247255" lon="86.7139430903">
+				<time>2023-03-27T01:38:12</time>
+				<extensions>
+					<heartrate>62</heartrate>
+					<cadence>52</cadence>
+					<speed>0.961</speed>
+					<distance>947.12</distance>
+				</extensions>
+				<ele>3540.4</ele>
+			</trkpt>
+			<trkpt lat="27.8044446744" lon="86.7139082216">
+				<time>2023-03-27T01:38:17</time>
+				<extensions>
+					<heartrate>63</heartrate>
+					<cadence>52</cadence>
+					<speed>0.97</speed>
+					<distance>950.91</distance>
+				</extensions>
+				<ele>3540.2</ele>
+			</trkpt>
+			<trkpt lat="27.8044520505" lon="86.7138653062">
+				<time>2023-03-27T01:38:22</time>
+				<extensions>
+					<heartrate>64</heartrate>
+					<cadence>53</cadence>
+					<speed>0.942</speed>
+					<distance>954.85</distance>
+				</extensions>
+				<ele>3539.2</ele>
+			</trkpt>
+			<trkpt lat="27.8044512123" lon="86.7138557509">
+				<time>2023-03-27T01:38:23</time>
+				<extensions>
+					<heartrate>64</heartrate>
+					<cadence>53</cadence>
+					<speed>0.942</speed>
+					<distance>955.81</distance>
+				</extensions>
+				<ele>3539.0</ele>
+			</trkpt>
+			<trkpt lat="27.8044502903" lon="86.7138474528">
+				<time>2023-03-27T01:38:24</time>
+				<extensions>
+					<heartrate>65</heartrate>
+					<cadence>53</cadence>
+					<speed>0.942</speed>
+					<distance>956.46</distance>
+				</extensions>
+				<ele>3538.8</ele>
+			</trkpt>
+			<trkpt lat="27.8044491168" lon="86.7138011847">
+				<time>2023-03-27T01:38:28</time>
+				<extensions>
+					<heartrate>66</heartrate>
+					<cadence>47</cadence>
+					<speed>0.942</speed>
+					<distance>961.08</distance>
+				</extensions>
+				<ele>3538.0</ele>
+			</trkpt>
+			<trkpt lat="27.8044512123" lon="86.7137811519">
+				<time>2023-03-27T01:38:30</time>
+				<extensions>
+					<heartrate>66</heartrate>
+					<cadence>48</cadence>
+					<speed>0.952</speed>
+					<distance>963.03</distance>
+				</extensions>
+				<ele>3537.6</ele>
+			</trkpt>
+			<trkpt lat="27.8044515476" lon="86.7137396615">
+				<time>2023-03-27T01:38:33</time>
+				<extensions>
+					<heartrate>65</heartrate>
+					<cadence>50</cadence>
+					<speed>0.97</speed>
+					<distance>967.01</distance>
+				</extensions>
+				<ele>3537.0</ele>
+			</trkpt>
+			<trkpt lat="27.8044498712" lon="86.7137185391">
+				<time>2023-03-27T01:38:36</time>
+				<extensions>
+					<heartrate>64</heartrate>
+					<speed>0.998</speed>
+					<distance>969.36</distance>
+				</extensions>
+				<ele>3536.4</ele>
+			</trkpt>
+			<trkpt lat="27.8044526372" lon="86.71370144">
+				<time>2023-03-27T01:38:39</time>
+				<extensions>
+					<heartrate>64</heartrate>
+					<cadence>55</cadence>
+					<speed>0.961</speed>
+					<distance>970.37</distance>
+				</extensions>
+				<ele>3536.0</ele>
+			</trkpt>
+			<trkpt lat="27.8044604324" lon="86.7136879452">
+				<time>2023-03-27T01:38:41</time>
+				<extensions>
+					<heartrate>64</heartrate>
+					<cadence>55</cadence>
+					<speed>0.952</speed>
+					<distance>972.29</distance>
+				</extensions>
+				<ele>3535.4</ele>
+			</trkpt>
+			<trkpt lat="27.8044771962" lon="86.7136932258">
+				<time>2023-03-27T01:38:43</time>
+				<extensions>
+					<heartrate>64</heartrate>
+					<cadence>52</cadence>
+					<speed>0.942</speed>
+					<distance>974.18</distance>
+				</extensions>
+				<ele>3535.0</ele>
+			</trkpt>
+			<trkpt lat="27.8044846561" lon="86.7136984225">
+				<time>2023-03-27T01:38:44</time>
+				<extensions>
+					<heartrate>63</heartrate>
+					<cadence>52</cadence>
+					<speed>0.942</speed>
+					<distance>974.97</distance>
+				</extensions>
+				<ele>3534.8</ele>
+			</trkpt>
+			<trkpt lat="27.8045202792" lon="86.7137482949">
+				<time>2023-03-27T01:38:50</time>
+				<extensions>
+					<heartrate>61</heartrate>
+					<cadence>50</cadence>
+					<speed>1.008</speed>
+					<distance>981.22</distance>
+				</extensions>
+				<ele>3534.2</ele>
+			</trkpt>
+			<trkpt lat="27.8045438323" lon="86.7138294317">
+				<time>2023-03-27T01:38:58</time>
+				<extensions>
+					<heartrate>59</heartrate>
+					<cadence>52</cadence>
+					<speed>1.064</speed>
+					<distance>989.73</distance>
+				</extensions>
+				<ele>3534.0</ele>
+			</trkpt>
+			<trkpt lat="27.8045793716" lon="86.713922387">
+				<time>2023-03-27T01:39:07</time>
+				<extensions>
+					<heartrate>60</heartrate>
+					<cadence>53</cadence>
+					<speed>1.092</speed>
+					<distance>999.12</distance>
+				</extensions>
+				<ele>3533.8</ele>
+			</trkpt>
+			<trkpt lat="27.8045872506" lon="86.7139380611">
+				<time>2023-03-27T01:39:09</time>
+				<extensions>
+					<heartrate>59</heartrate>
+					<cadence>52</cadence>
+					<speed>1.082</speed>
+					<distance>1000.02</distance>
+				</extensions>
+				<ele>3533.8</ele>
+			</trkpt>
+			<trkpt lat="27.8045921959" lon="86.7139656376">
+				<time>2023-03-27T01:39:11</time>
+				<extensions>
+					<heartrate>59</heartrate>
+					<cadence>52</cadence>
+					<speed>1.073</speed>
+					<distance>1003.16</distance>
+				</extensions>
+				<ele>3533.6</ele>
+			</trkpt>
+			<trkpt lat="27.8045951296" lon="86.7139815632">
+				<time>2023-03-27T01:39:12</time>
+				<extensions>
+					<heartrate>59</heartrate>
+					<cadence>54</cadence>
+					<speed>1.073</speed>
+					<distance>1004.6</distance>
+				</extensions>
+				<ele>3533.6</ele>
+			</trkpt>
+			<trkpt lat="27.8046267293" lon="86.7140383087">
+				<time>2023-03-27T01:39:17</time>
+				<extensions>
+					<heartrate>60</heartrate>
+					<cadence>55</cadence>
+					<speed>1.101</speed>
+					<distance>1011.12</distance>
+				</extensions>
+				<ele>3533.2</ele>
+			</trkpt>
+			<trkpt lat="27.804658832" lon="86.7140489537">
+				<time>2023-03-27T01:39:24</time>
+				<extensions>
+					<heartrate>60</heartrate>
+					<cadence>53</cadence>
+					<speed>1.073</speed>
+					<distance>1014.82</distance>
+				</extensions>
+				<ele>3532.8</ele>
+			</trkpt>
+			<trkpt lat="27.8046613466" lon="86.7140481994">
+				<time>2023-03-27T01:39:28</time>
+				<extensions>
+					<heartrate>61</heartrate>
+					<speed>0.98</speed>
+					<distance>1015.56</distance>
+				</extensions>
+				<ele>3532.6</ele>
+			</trkpt>
+			<trkpt lat="27.8046671301" lon="86.7140426673">
+				<time>2023-03-27T01:39:33</time>
+				<extensions>
+					<heartrate>61</heartrate>
+					<distance>1016.74</distance>
+				</extensions>
+				<ele>3532.6</ele>
+			</trkpt>
+			<trkpt lat="27.804684313" lon="86.7140594311">
+				<time>2023-03-27T01:39:44</time>
+				<extensions>
+					<heartrate>62</heartrate>
+					<distance>1018.62</distance>
+				</extensions>
+				<ele>3532.6</ele>
+			</trkpt>
+			<trkpt lat="27.8046840616" lon="86.714059934">
+				<time>2023-03-27T01:39:45</time>
+				<extensions>
+					<heartrate>62</heartrate>
+					<distance>1018.62</distance>
+				</extensions>
+				<ele>3532.4</ele>
+			</trkpt>
+			<trkpt lat="27.8047007415" lon="86.7140821461">
+				<time>2023-03-27T01:39:51</time>
+				<extensions>
+					<heartrate>62</heartrate>
+					<cadence>77</cadence>
+					<distance>1020.98</distance>
+				</extensions>
+				<ele>3531.8</ele>
+			</trkpt>
+			<trkpt lat="27.804707028" lon="86.7140818108">
+				<time>2023-03-27T01:39:53</time>
+				<extensions>
+					<heartrate>63</heartrate>
+					<cadence>77</cadence>
+					<speed>0.364</speed>
+					<distance>1021.65</distance>
+				</extensions>
+				<ele>3531.4</ele>
+			</trkpt>
+			<trkpt lat="27.8047203552" lon="86.7140888516">
+				<time>2023-03-27T01:39:55</time>
+				<extensions>
+					<heartrate>64</heartrate>
+					<cadence>79</cadence>
+					<speed>0.597</speed>
+					<distance>1023.11</distance>
+				</extensions>
+				<ele>3531.0</ele>
+			</trkpt>
+			<trkpt lat="27.8047398012" lon="86.7141016759">
+				<time>2023-03-27T01:40:00</time>
+				<extensions>
+					<heartrate>64</heartrate>
+					<cadence>80</cadence>
+					<speed>0.765</speed>
+					<distance>1025.76</distance>
+				</extensions>
+				<ele>3530.4</ele>
+			</trkpt>
+			<trkpt lat="27.8047425672" lon="86.7141045257">
+				<time>2023-03-27T01:40:01</time>
+				<extensions>
+					<heartrate>64</heartrate>
+					<cadence>80</cadence>
+					<speed>0.774</speed>
+					<distance>1026.09</distance>
+				</extensions>
+				<ele>3530.2</ele>
+			</trkpt>
+			<trkpt lat="27.8047540504" lon="86.7141212896">
+				<time>2023-03-27T01:40:06</time>
+				<extensions>
+					<heartrate>65</heartrate>
+					<cadence>77</cadence>
+					<speed>0.737</speed>
+					<distance>1027.94</distance>
+				</extensions>
+				<ele>3529.2</ele>
+			</trkpt>
+			<trkpt lat="27.8047689702" lon="86.7141386401">
+				<time>2023-03-27T01:40:08</time>
+				<extensions>
+					<heartrate>65</heartrate>
+					<cadence>77</cadence>
+					<speed>0.765</speed>
+					<distance>1029.42</distance>
+				</extensions>
+				<ele>3528.8</ele>
+			</trkpt>
+			<trkpt lat="27.8047874104" lon="86.7141654622">
+				<time>2023-03-27T01:40:11</time>
+				<extensions>
+					<heartrate>64</heartrate>
+					<speed>0.896</speed>
+					<distance>1033.39</distance>
+				</extensions>
+				<ele>3528.2</ele>
+			</trkpt>
+			<trkpt lat="27.8047981393" lon="86.7141704075">
+				<time>2023-03-27T01:40:12</time>
+				<extensions>
+					<heartrate>64</heartrate>
+					<cadence>51</cadence>
+					<speed>0.896</speed>
+					<distance>1034.7</distance>
+				</extensions>
+				<ele>3528.2</ele>
+			</trkpt>
+			<trkpt lat="27.8048017435" lon="86.7141727544">
+				<time>2023-03-27T01:40:13</time>
+				<extensions>
+					<heartrate>64</heartrate>
+					<cadence>52</cadence>
+					<speed>0.905</speed>
+					<distance>1035.03</distance>
+				</extensions>
+				<ele>3528.2</ele>
+			</trkpt>
+			<trkpt lat="27.8048242908" lon="86.714178035">
+				<time>2023-03-27T01:40:16</time>
+				<extensions>
+					<heartrate>68</heartrate>
+					<cadence>52</cadence>
+					<speed>0.905</speed>
+					<distance>1037.75</distance>
+				</extensions>
+				<ele>3528.0</ele>
+			</trkpt>
+			<trkpt lat="27.8048378695" lon="86.7141873389">
+				<time>2023-03-27T01:40:18</time>
+				<extensions>
+					<heartrate>71</heartrate>
+					<speed>0.905</speed>
+					<distance>1039.12</distance>
+				</extensions>
+				<ele>3528.0</ele>
+			</trkpt>
+			<trkpt lat="27.8048411384" lon="86.7141925357">
+				<time>2023-03-27T01:40:19</time>
+				<extensions>
+					<heartrate>73</heartrate>
+					<speed>0.886</speed>
+					<distance>1039.69</distance>
+				</extensions>
+				<ele>3528.0</ele>
+			</trkpt>
+			<trkpt lat="27.8048651107" lon="86.7142321821">
+				<time>2023-03-27T01:40:23</time>
+				<extensions>
+					<heartrate>76</heartrate>
+					<cadence>49</cadence>
+					<speed>0.905</speed>
+					<distance>1044.75</distance>
+				</extensions>
+				<ele>3527.8</ele>
+			</trkpt>
+			<trkpt lat="27.8048706427" lon="86.7142409831">
+				<time>2023-03-27T01:40:24</time>
+				<extensions>
+					<heartrate>76</heartrate>
+					<cadence>49</cadence>
+					<speed>0.924</speed>
+					<distance>1045.55</distance>
+				</extensions>
+				<ele>3527.6</ele>
+			</trkpt>
+			<trkpt lat="27.8049144801" lon="86.7142849043">
+				<time>2023-03-27T01:40:32</time>
+				<extensions>
+					<heartrate>76</heartrate>
+					<cadence>45</cadence>
+					<speed>0.868</speed>
+					<distance>1052.41</distance>
+				</extensions>
+				<ele>3527.6</ele>
+			</trkpt>
+			<trkpt lat="27.8049754165" lon="86.7143134866">
+				<time>2023-03-27T01:40:39</time>
+				<extensions>
+					<heartrate>74</heartrate>
+					<cadence>46</cadence>
+					<speed>0.858</speed>
+					<distance>1059.89</distance>
+				</extensions>
+				<ele>3527.4</ele>
+			</trkpt>
+			<trkpt lat="27.8049958684" lon="86.7143741716">
+				<time>2023-03-27T01:40:46</time>
+				<extensions>
+					<heartrate>73</heartrate>
+					<cadence>50</cadence>
+					<speed>0.84</speed>
+					<distance>1066.49</distance>
+				</extensions>
+				<ele>3527.4</ele>
+			</trkpt>
+			<trkpt lat="27.8049813677" lon="86.7144237086">
+				<time>2023-03-27T01:40:51</time>
+				<extensions>
+					<heartrate>70</heartrate>
+					<cadence>49</cadence>
+					<speed>0.924</speed>
+					<distance>1071.79</distance>
+				</extensions>
+				<ele>3527.4</ele>
+			</trkpt>
+			<trkpt lat="27.8049853072" lon="86.7144300789">
+				<time>2023-03-27T01:40:52</time>
+				<extensions>
+					<heartrate>68</heartrate>
+					<cadence>50</cadence>
+					<speed>0.924</speed>
+					<distance>1072.32</distance>
+				</extensions>
+				<ele>3527.2</ele>
+			</trkpt>
+			<trkpt lat="27.8049925994" lon="86.7144529615">
+				<time>2023-03-27T01:40:54</time>
+				<extensions>
+					<heartrate>65</heartrate>
+					<cadence>50</cadence>
+					<speed>0.914</speed>
+					<distance>1074.88</distance>
+				</extensions>
+				<ele>3527.2</ele>
+			</trkpt>
+			<trkpt lat="27.8049991373" lon="86.714470312">
+				<time>2023-03-27T01:40:56</time>
+				<extensions>
+					<heartrate>62</heartrate>
+					<cadence>48</cadence>
+					<speed>0.933</speed>
+					<distance>1076.52</distance>
+				</extensions>
+				<ele>3527.2</ele>
+			</trkpt>
+			<trkpt lat="27.8050170746" lon="86.7145351879">
+				<time>2023-03-27T01:41:01</time>
+				<extensions>
+					<heartrate>61</heartrate>
+					<cadence>49</cadence>
+					<speed>0.942</speed>
+					<distance>1082.57</distance>
+				</extensions>
+				<ele>3527.2</ele>
+			</trkpt>
+			<trkpt lat="27.8050143924" lon="86.7145480961">
+				<time>2023-03-27T01:41:06</time>
+				<extensions>
+					<heartrate>61</heartrate>
+					<speed>0.952</speed>
+					<distance>1083.68</distance>
+				</extensions>
+				<ele>3527.2</ele>
+			</trkpt>
+			<trkpt lat="27.8050214332" lon="86.7145475093">
+				<time>2023-03-27T01:41:07</time>
+				<extensions>
+					<heartrate>61</heartrate>
+					<speed>0.942</speed>
+					<distance>1084.17</distance>
+				</extensions>
+				<ele>3527.2</ele>
+			</trkpt>
+			<trkpt lat="27.8050282225" lon="86.7145585734">
+				<time>2023-03-27T01:41:09</time>
+				<extensions>
+					<heartrate>61</heartrate>
+					<speed>0.914</speed>
+					<distance>1084.68</distance>
+				</extensions>
+				<ele>3527.4</ele>
+			</trkpt>
+			<trkpt lat="27.8050344251" lon="86.7145687155">
+				<time>2023-03-27T01:41:12</time>
+				<extensions>
+					<heartrate>61</heartrate>
+					<speed>0.802</speed>
+					<distance>1085.78</distance>
+				</extensions>
+				<ele>3527.4</ele>
+			</trkpt>
+			<trkpt lat="27.8050481714" lon="86.7145888321">
+				<time>2023-03-27T01:41:17</time>
+				<extensions>
+					<heartrate>64</heartrate>
+					<distance>1086.55</distance>
+				</extensions>
+				<ele>3527.4</ele>
+			</trkpt>
+			<trkpt lat="27.8050456569" lon="86.7146018241">
+				<time>2023-03-27T01:41:21</time>
+				<extensions>
+					<heartrate>66</heartrate>
+					<distance>1087.19</distance>
+				</extensions>
+				<ele>3527.4</ele>
+			</trkpt>
+		</trkseg>
+		<extensions>
+			<start_time_utc>2023-03-27T00:59:53</start_time_utc>
+		</extensions>
+	</trk>
+</gpx>
