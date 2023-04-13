@@ -20,6 +20,15 @@
 	});
 </script>
 
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
-<div bind:this={mapElement} id="map" style="width: 400px; height: 300px;" />
+<div class="app">
+	<div bind:this={mapElement} id="map" style="width: 100%; height: 100%" />
+</div>
+
+<style>
+	.app {
+		/* display: grid;
+		align-content: center; */
+		height: 99vh;
+		width: 99vw;
+	}
+</style>
