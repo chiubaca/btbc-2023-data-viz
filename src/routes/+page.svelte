@@ -4,22 +4,48 @@
 	import mapboxgl from 'mapbox-gl';
 	import 'mapbox-gl/dist/mapbox-gl.css';
 
+	import route from '../data/route.json';
+
+	console.log('🚀 ~ file: +page.svelte:8 ~ route:', route);
+
 	let mapElement: HTMLDivElement;
 
 	onMount(() => {
 		mapboxgl.accessToken =
 			'pk.eyJ1IjoiY2hpdWJhY2EiLCJhIjoiY2tvOHdueTE5MnI2ZDJwcGdhYmdldWcxbiJ9.nODodukM4uQc-6KXgoZ4zQ';
 
-		new mapboxgl.Map({
+		const map = new mapboxgl.Map({
 			container: mapElement, // container ID
 			style: 'mapbox://styles/chiubaca/clge0llj7001t01rq9kz4l55x', // style URL
 			center: [86.7801, 27.8002], // starting position [lng, lat]
 			zoom: 9, // starting zoom
 			pitch: 49
 		});
+
+		map.on('load', () => {
+			map.addSource('route', {
+				type: 'geojson',
+				data: route
+			});
+			map.addLayer({
+				id: 'route',
+				type: 'line',
+				source: 'route',
+				layout: {
+					'line-join': 'round',
+					'line-cap': 'round'
+				},
+				paint: {
+					'line-color': '#888',
+					'line-width': 8
+				}
+			});
+		});
 	});
 </script>
 
-<div class="w-screen h-screen">
-	<div bind:this={mapElement} id="map" style="width: 100%; height: 100%" />
+<div class="relative w-screen h-screen">
+	<div bind:this={mapElement} id="map" class="w-full h-full" />
+
+	<div id="overlay" class=" bottom-0 absolute flex h-[200px] bg-pink-400 m-7">hello</div>
 </div>
