@@ -20,15 +20,6 @@
 	});
 </script>
 
-<div class="app">
+<div class="w-screen h-screen">
 	<div bind:this={mapElement} id="map" style="width: 100%; height: 100%" />
 </div>
-
-<style>
-	.app {
-		/* display: grid;
-		align-content: center; */
-		height: 99vh;
-		width: 99vw;
-	}
-</style>
