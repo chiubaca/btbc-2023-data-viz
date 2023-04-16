@@ -93,7 +93,7 @@
 			// prevent showing a lot of digits during the animation
 			const elevation = Math.floor(
 				// Do not use terrain exaggeration to get actual meter values
-				mapbox.queryTerrainElevation(lngLat, { exaggerated: false })
+				mapbox.queryTerrainElevation(lngLat, { exaggerated: false }) as number
 			);
 
 			// Update the popup altitude value and marker location
@@ -125,6 +125,6 @@
 	<div bind:this={mapElement} id="map" class="w-full h-full" />
 
 	<div id="overlay" class=" bottom-0 absolute flex h-[200px] bg-pink-400 m-7">
-		<button on:click={toggleDay1}> Day 1</button>
+		<button class="btn" on:click={toggleDay1}> Day 1</button>
 	</div>
 </div>
