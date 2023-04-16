@@ -4,9 +4,9 @@
 	import mapboxgl from 'mapbox-gl';
 	import 'mapbox-gl/dist/mapbox-gl.css';
 
-	import route from '../data/route.json';
+	import route from '../data/full-route.json';
 
-	console.log('🚀 ~ file: +page.svelte:8 ~ route:', route);
+	import day1Route from '../data/segments/day-1.json';
 
 	let mapElement: HTMLDivElement;
 
@@ -25,7 +25,7 @@
 		map.on('load', () => {
 			map.addSource('route', {
 				type: 'geojson',
-				data: route
+				data: day1Route
 			});
 			map.addLayer({
 				id: 'route',
@@ -36,6 +36,8 @@
 					'line-cap': 'round'
 				},
 				paint: {
+					// make this look like its glowing
+
 					'line-color': '#888',
 					'line-width': 8
 				}
