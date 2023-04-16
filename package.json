@@ -38,6 +38,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@turf/turf": "^6.5.0",
 		"mapbox-gl": "^2.13.0",
 		"tailwind": "^4.0.0"
 	}
