@@ -1,6 +1,7 @@
 import day1Route from './data/segments/day-1.json';
 import day2Route from './data/segments/day-2.json';
 import day3Route from './data/segments/day-3.json';
+import day4Route from './data/segments/day-4.json';
 
 export const layers = {
 	'day-1': {
@@ -11,6 +12,9 @@ export const layers = {
 	},
 	'day-3': {
 		geojson: day3Route as GeoJSON.FeatureCollection
+	},
+	'day-4': {
+		geojson: day4Route as GeoJSON.FeatureCollection
 	}
 };
 
