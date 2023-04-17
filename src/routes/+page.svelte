@@ -149,6 +149,8 @@
 
 		<button class="btn" on:click={() => toggleLayer('day-2')}> Day 2</button>
 		<button class="btn" on:click={() => toggleLayer('day-3')}> Day 3</button>
+
 		<button class="btn" on:click={() => toggleLayer('day-4')}> Day 4</button>
+		<button class="btn" on:click={() => toggleLayer('day-5')}> Day 5</button>
 	</div>
 </div>
