@@ -1,20 +1,17 @@
 <script lang="ts">
 	import { onMount } from 'svelte';
 
-	import mapboxgl, { GeoJSONSource } from 'mapbox-gl';
+	import mapboxgl from 'mapbox-gl';
 	import 'mapbox-gl/dist/mapbox-gl.css';
-
 	import * as turf from '@turf/turf';
 
 	import { layers } from '../layers';
 	import type { LayerNames } from '../layers';
 
 	let mapElement: HTMLDivElement;
-
 	let mapbox: mapboxgl.Map;
 
 	let currentLayer: LayerNames | null = null;
-
 	let markerLayer: mapboxgl.Marker;
 
 	onMount(() => {
@@ -50,21 +47,25 @@
 
 		mapbox.addSource(layerName, {
 			type: 'geojson',
-			data: layers[layerName].geojson
+			data: layers[layerName].geojson,
+			lineMetrics: true
 		});
 
 		mapbox.addLayer({
 			id: layerName,
 			type: 'line',
 			source: layerName,
+
 			layout: {
 				'line-join': 'round',
 				'line-cap': 'round'
 			},
 			paint: {
-				// make this look like its glowing
-				'line-color': '#888',
-				'line-width': 8
+				'line-color': 'orange',
+				'line-width': 3,
+				// 'line-gradient' must be specified using an expression
+				// with the special 'line-progress' property
+				'line-gradient': ['interpolate', ['linear'], ['line-progress'], 0, 'orange', 1, 'red']
 			}
 		});
 
@@ -147,5 +148,6 @@
 		<button class="btn" on:click={() => toggleLayer('day-1')}> Day 1</button>
 
 		<button class="btn" on:click={() => toggleLayer('day-2')}> Day 2</button>
+		<button class="btn" on:click={() => toggleLayer('day-3')}> Day 3</button>
 	</div>
 </div>
