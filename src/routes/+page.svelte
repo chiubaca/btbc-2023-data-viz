@@ -145,7 +145,7 @@
 
 	<div
 		id="overlay"
-		class=" bottom-0 absolute flex flex-col h-full gap-3 p-1 self-center justify-center opacity-60 hover:opacity-90"
+		class=" bottom-0 absolute flex flex-row w-full gap-3 p-1 opacity-60 hover:opacity-90 overflow-x-scroll"
 	>
 		<button class="btn" on:click={() => toggleLayer('day-1')}> Day 1</button>
 		<button class="btn" on:click={() => toggleLayer('day-2')}> Day 2</button>
