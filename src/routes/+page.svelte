@@ -143,8 +143,10 @@
 <div class="relative w-screen h-screen">
 	<div bind:this={mapElement} id="map" class="w-full h-full" />
 
-	<div id="overlay" class=" bottom-0 absolute flex flex-col h-full gap-1 p-1 self-center bg">
-		{currentLayer}
+	<div
+		id="overlay"
+		class=" bottom-0 absolute flex flex-col h-full gap-3 p-1 self-center justify-center opacity-60 hover:opacity-90"
+	>
 		<button class="btn" on:click={() => toggleLayer('day-1')}> Day 1</button>
 		<button class="btn" on:click={() => toggleLayer('day-2')}> Day 2</button>
 		<button class="btn" on:click={() => toggleLayer('day-3')}> Day 3</button>
