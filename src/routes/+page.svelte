@@ -141,11 +141,11 @@
 </script>
 
 <div class="relative w-screen h-screen">
-	<div bind:this={mapElement} id="map" class="w-full h-full" />
+	<div bind:this={mapElement} id="map" class="w-screen h-screen" />
 
 	<div
 		id="overlay"
-		class=" bottom-0 absolute flex flex-row w-full gap-3 p-1 opacity-60 hover:opacity-90 overflow-x-scroll"
+		class=" bottom-[50px] absolute flex flex-row w-full gap-3 p-1 opacity-60 hover:opacity-90 overflow-x-scroll"
 	>
 		<button class="btn" on:click={() => toggleLayer('day-1')}> Day 1</button>
 		<button class="btn" on:click={() => toggleLayer('day-2')}> Day 2</button>
