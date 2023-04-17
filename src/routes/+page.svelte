@@ -143,16 +143,21 @@
 <div class="relative w-screen h-screen">
 	<div bind:this={mapElement} id="map" class="w-full h-full" />
 
-	<div id="overlay" class=" bottom-0 absolute flex h-[200px] bg-pink-400 m-7">
+	<div id="overlay" class=" bottom-0 absolute flex flex-col h-full gap-1 p-1 self-center bg">
 		{currentLayer}
 		<button class="btn" on:click={() => toggleLayer('day-1')}> Day 1</button>
-
 		<button class="btn" on:click={() => toggleLayer('day-2')}> Day 2</button>
 		<button class="btn" on:click={() => toggleLayer('day-3')}> Day 3</button>
-
 		<button class="btn" on:click={() => toggleLayer('day-4')}> Day 4</button>
 		<button class="btn" on:click={() => toggleLayer('day-5')}> Day 5</button>
 		<button class="btn" on:click={() => toggleLayer('day-6')}> Day 6</button>
 		<button class="btn" on:click={() => toggleLayer('day-7')}> Day 7</button>
+		<button class="btn" on:click={() => toggleLayer('day-8')}> Day 8</button>
+		<button class="btn" on:click={() => toggleLayer('day-9')}> Day 9</button>
+		<button class="btn" on:click={() => toggleLayer('day-10')}> Day 10</button>
+		<button class="btn" on:click={() => toggleLayer('day-11')}> Day 11</button>
+		<button class="btn" on:click={() => toggleLayer('day-12')}> Day 12</button>
+		<button class="btn" on:click={() => toggleLayer('day-13')}> Day 13</button>
+		<button class="btn" on:click={() => toggleLayer('day-14')}> Day 14</button>
 	</div>
 </div>
