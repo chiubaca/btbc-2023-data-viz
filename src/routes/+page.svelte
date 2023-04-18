@@ -25,6 +25,14 @@
 			zoom: 9, // starting zoom
 			pitch: 49
 		});
+
+		const updateViewportHeight = () => {
+			document.documentElement.style.setProperty('--viewport-height', `${window.innerHeight}px`);
+		};
+
+		window.addEventListener('resize', updateViewportHeight);
+
+		updateViewportHeight();
 	});
 
 	const toggleLayer = async (layerName: LayerNames) => {
@@ -141,7 +149,7 @@
 </script>
 
 <div class="relative w-screen h-screen">
-	<div bind:this={mapElement} id="map" class="w-screen h-screen" />
+	<div bind:this={mapElement} id="map" class="w-screen h-screen app-container" />
 
 	<div id="overlay" class=" top-0 absolute p-1 opacity-60 hover:opacity-90 tabs tabs-boxed">
 		<button
@@ -230,3 +238,17 @@
 		>
 	</div>
 </div>
+
+<style>
+	:root {
+		--viewport-height: 100%;
+	}
+
+	.app-container {
+		height: 100vh;
+
+		@supports (height: var(--)) {
+			height: var(--viewport-height);
+		}
+	}
+</style>
